@@ -1,0 +1,14 @@
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Visual Studio
+.vs/
+.vscode/
+
+# JetBrains IDEs
+.idea
+
+
