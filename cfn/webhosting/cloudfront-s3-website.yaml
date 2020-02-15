@@ -75,6 +75,9 @@ Resources:
         ViewerCertificate:
           AcmCertificateArn: !Ref CertificateArn
           SslSupportMethod: sni-only  
+        Logging: 
+          Bucket: "access-logs-modernization-workshops.s3.amazonaws.com"
+          Prefix: "www/"
         
   WebsiteDNSName:
     Type: AWS::Route53::RecordSet
