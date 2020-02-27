@@ -8,19 +8,19 @@ Parameters:
   ProjectName:
     Type: String
     Description: Project Name
-    Default: xxxxxxx
+    Default: www
   WebsiteBucket:
     Type: String
     Description: Website S3 bucket name
-    Default: xxxxxxx.modernize.awsworkshop.io  
+    Default: www.awsworkshop.io  
   GitHubRepo:
     Type: String
     Description: repo name
-    Default: aws-modernization-xxxxxxx
+    Default: aws-modernization-hub
   FullRepoURL:
     Type: String
     Description: The full url to the repo
-    Default: https://github.com/aws-samples/aws-modernization-xxxxxxxx.git  
+    Default: https://github.com/aws-samples/aws-modernization-hub.git 
   GitHubOwner:
     Type: String
     Description: GitHub owner name
