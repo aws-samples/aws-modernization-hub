@@ -20,7 +20,7 @@ Parameters:
   FullRepoURL:
     Type: String
     Description: The full url to the repo
-    Default: https://github.com/aws-samples/aws-modernization-hub 
+    Default: https://github.com/aws-samples/aws-modernization-hub.git
   GitHubOwner:
     Type: String
     Description: GitHub owner name
