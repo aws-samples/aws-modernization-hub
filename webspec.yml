@@ -13,6 +13,7 @@ phases:
       - IMAGE_TAG=${COMMIT_HASH:=latest}
       - echo Initializing Git Repo
       - git init
+      - echo $FULL_REPO_URL
       - git remote add origin $FULL_REPO_URL
       - git fetch
       - git checkout -f "$CODEBUILD_RESOLVED_SOURCE_VERSION"
