@@ -52,6 +52,7 @@ Resources:
         Comment: !Join [' ', [!Ref 'WebsiteBucket', "Workshop Distribution"]]
         Aliases:
         - !Join ['', [ !Ref 'WorkshopHostname', '.', !Ref 'DomainName']]
+        - awsworkshop.io 
         DefaultCacheBehavior:
           AllowedMethods:
           - GET
