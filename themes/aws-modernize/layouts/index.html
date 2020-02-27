@@ -1,0 +1,133 @@
+{{ define "main" }}
+
+<!-- highlights section -->
+<section class="highlights-section" role="banner">
+  <div class="container">
+    <div class="row">
+      <!-- single highlight item -->
+      <div class="col-12 col-sm-4 d-flex">
+        <div class="float-left">
+          <img src="images/icons/AWS_icons_workshops.png"
+            alt="{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing"
+            title="{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing" role="img" />
+        </div>
+        <div class="hightlight-section-content align-self-center">
+          <h6 role="heading">{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing</h6>
+          <p>New workshops and content added all the time</p>
+        </div>
+      </div>
+      <!-- mobile specific block-->
+      <div class="w-100 d-inline d-sm-none d-block border-bottom border-bottom spacer-mob-sm"></div>
+      <div class="col-12 col-sm-4 d-flex">
+        <div class="float-left">
+          <img class="" src="images/icons/AWS_icon_experts.png" alt="Created by experts" title="Created by experts"
+            role="img" />
+        </div>
+        <div class="hightlight-section-content align-self-center">
+          <h6 role="heading">Created by experts</h6>
+          <p>Created by specialists in the field from AWS and AWS Partners</p>
+        </div>
+      </div>
+      <div class="w-100 d-inline d-sm-none d-block border-bottom border-bottom spacer-mob-sm"></div>
+      <div class="col-12 col-sm-4 d-flex">
+        <div class="float-left">
+          <img class="" src="images/icons/AWS_icon_anywhere.png" alt="Avaliable for access anywhere"
+            title="Avaliable for access anywhere" role="img" />
+        </div>
+        <div class="hightlight-section-content align-self-center">
+          <h6 role="heading">Available for access anywhere</h6>
+          <p>Globally available without restriction and mobile friendly</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- main content section -->
+<main role="main" class="bg-gray">
+  <!-- workshops section-->
+  <section class="spacer-inner-tb-30">
+    <div class="container">
+      <div class="row">
+        <!-- heading-->
+        <div class="col-12 col-xl-4 workshops-title">
+          <h1 role="heading" class="title-1 underline-orange d-inline-block spacer-mob-heading" role="heading">
+            Workshops</h1>
+        </div>
+        <div class="col-12 col-xl-8 pt-sm-3 pt-xl-0">
+          <!-- filter categories-->
+          <!--div class="row">
+                                    <!--filter heading--
+                                    <div class="col-12 col-sm-4 col-md-3 col-xl-3 pt-2">
+                                        <h2 class="title-2 color-blue text-right-sm"  role="heading">Categories:</h2>
+                                    </div>
+                                    <!--filter values--
+                                    <div class="col-12 col-sm-8 col-md-9 col-xl-9" role="list">
+                                        <a class="btn-grey d-inline-flex active" href="#" role="listitem">DevOps</a>
+                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
+                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Amazon EKS</a>
+                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
+                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
+                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
+                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
+                                    </div>
+                                </div-->
+        </div>
+      </div>
+      <!--workshop items container-->
+      <div class="workshops-items-container">
+
+        {{ range first 10 ( where .Pages "Section" "card" ) }}
+        <!--  single workshop item section-->
+        <div class="row workshops-item grid-item">
+          <div class="col-12 col-md-4 col-lg-3">
+            <a href="#" class="card" role="link">
+
+
+              <img src={{ index .Params "image" }} class="card-img-top" alt={{ .Title }} role="img" />
+
+
+              <div class="card-body">
+                <h6 class="card-text" role="heading">{{ .Title }}</h6>
+              </div>
+
+            </a>
+          </div>
+          <div class="col-12 col-md-8 col-lg-9">
+            <!-- workshop item title -->
+            <h2 class="title-2 color-blue" role="heading">{{ .Title }}</h2>
+            <!-- workshop item benefits -->
+            <ul class="list-section" role="list">
+
+              <li role="listitem"><i class="fas fa-tachometer-alt mr-2"></i>Level: {{ .Params.level }}</li>
+              <li role="listitem"><i class="fas fa-check mr-2"></i>Categories: {{ delimit .Params.categories ", " }}
+              </li>
+              <li role="listitem"><i class="fas fa-check mr-2"></i>Tags: {{ delimit .Params.tags ", " }}</li>
+            </ul>
+            <!-- workshop item duration -->
+            <span role="timer"><i class="far fa-clock mr-2"></i>{{ .Params.duration }}</span>
+
+
+            <!-- workshop item summary-->
+            <p class="item-summary">
+              {{ .Content }}
+            </p>
+            <!-- workshop item get started button-->
+            <button onclick="window.location.href = '{{ .Params.workshop_url }}';" type="button"
+              class="btn btn-standard" role="button">Get started</button>
+          </div>
+        </div>
+        {{ end }}
+
+        
+        
+
+      </div>
+    </div>
+  </section>
+  <!-- featured modules section-->
+
+</main>
+
+
+{{ end }}

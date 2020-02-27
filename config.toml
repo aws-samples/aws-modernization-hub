@@ -1,0 +1,10 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Modernization workshop"
+theme = "aws-modernize"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]

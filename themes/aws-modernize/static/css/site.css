@@ -1,17 +1,17 @@
 ﻿/* Fonts */
 @font-face{
 	font-family:AmazonEmber;
-	src:url('../../content/fonts/AmazonEmber_W_Rg.woff2') format("woff2"),
-    url('../../content/fonts/AmazonEmber_W_Rg.woff') format("woff"),
-    url('../../content/fonts/AmazonEmber_W_Rg.eot') format("eot");
+	src:url('../../fonts/AmazonEmber_W_Rg.woff2') format("woff2"),
+    url('../../fonts/AmazonEmber_W_Rg.woff') format("woff"),
+    url('../../fonts/AmazonEmber_W_Rg.eot') format("eot");
 	font-weight:400;
 	font-style:normal
 }    
 @font-face{
     font-family:AmazonEmberBold;
-    src:url('../../content/fonts/AmazonEmber_W_Bd.woff2') format("woff2"),
-    url('../../content/fonts/AmazonEmber_W_Bd.woff2') format("woff"),
-    url('../../content/fonts/AmazonEmber_W_Bd.eot') format("eot");
+    src:url('../../fonts/AmazonEmber_W_Bd.woff2') format("woff2"),
+    url('../../fonts/AmazonEmber_W_Bd.woff2') format("woff"),
+    url('../../fonts/AmazonEmber_W_Bd.eot') format("eot");
     font-weight:400;
     font-style:normal
 }
@@ -159,7 +159,7 @@ img.aws-logo {
 
 /* Banner Image */
 .hero-image {
-    background-image: url(../../content/images/banner/AWS-template-hero_500.jpg);
+    background-image: url(../../images/banner/AWS-template-hero_500.jpg);
     background-size: cover;
     height: auto;
     padding-top: 100px;
