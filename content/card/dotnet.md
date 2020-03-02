@@ -1,5 +1,5 @@
 ---
-title: .Net Modernization
+title: .Net Core Container Secrets
 level: 300
 duration: 2 hours
 date: 2020-02-26T18:53:36-08:00
@@ -12,7 +12,7 @@ categories: [Containers, Security]
 tags: [ECS, RDS, Secrets Manager]
 
 # Full URL to the workshop
-workshop_url: https://github.com/CarmenAPuccio/modernization-unicorn-store
+workshop_url: https://github.com/aws-samples/modernization-unicorn-store/releases/tag/v1.0
 ---
 
 In this module, you will learn how to containerize an existing .Net application and implement modern cloud based security principles to secure your application in production.
