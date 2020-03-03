@@ -65,6 +65,7 @@ a, a:hover, a:focus, a:active {
 }
 .parent-div {
     min-height: 100%;
+    position: relative;
 }
 
 .main-div {
@@ -77,9 +78,10 @@ a, a:hover, a:focus, a:active {
     background-color: #dcdcdc;
     font-family: AmazonEmberBold, Helvetica, Arial, 'Sans-Serif';
     padding: 15px 0;
-    position: relative;
+    position: absolute;
     bottom: 0;
     margin-top: -50px;
+    width:100%;
 }
 .footer p {
     margin: 0;
@@ -673,4 +675,16 @@ ul.list-section {
     top: -50px;
     z-index: 2;
     background-color: #fff;
+}
+
+/* List page link */
+.workshop-terms a, a:focus, a:active {
+    color: #007dbc;
+    text-decoration: underline;
+    outline: none;
+}
+.workshop-terms a:hover {
+    color: #eb5f07;
+    text-decoration: underline;
+    outline: none;
 }

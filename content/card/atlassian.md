@@ -3,7 +3,7 @@ title: Atlassian Code Suite Integration
 level: 400
 duration: 2 hours
 date: 2020-02-26T18:46:31-08:00
-image: images/AWS_workshop_3.png
+image: /images/AWS_workshop_3.png
 
 # categories is the overall themes covered. 
 categories: [DevOps, Integration]

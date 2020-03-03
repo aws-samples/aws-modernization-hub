@@ -3,7 +3,7 @@ title: Contrast Security
 level: 300
 duration: 1.5 hours
 date: 2020-02-24T22:05:01-08:00
-image: images/AWS_workshop_3.png
+image: /images/AWS_workshop_3.png
 
 # categories is the overall themes covered. 
 categories: [DevOps, Containers, Security]
