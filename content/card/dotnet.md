@@ -3,7 +3,7 @@ title: .Net Core Container Secrets
 level: 300
 duration: 2 hours
 date: 2020-02-26T18:53:36-08:00
-image: images/AWS_workshop_4.png
+image: /images/AWS_workshop_4.png
 
 # categories is the overall themes covered. 
 categories: [Containers, Security]

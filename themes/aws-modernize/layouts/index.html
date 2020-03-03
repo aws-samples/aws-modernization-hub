@@ -94,9 +94,28 @@
             <!-- workshop item benefits -->
             <ul class="list-section" role="list">
               <li role="listitem"><i class="fas fa-tachometer-alt mr-2"></i>Level: {{ .Params.level }}</li>
-              <li role="listitem"><i class="fas fa-check mr-2"></i>Categories: {{ delimit .Params.categories ", " }}</li>
-              <li role="listitem"><i class="fas fa-check mr-2"></i>Tags: {{ delimit .Params.tags ", " }}</li>
+              <!-- categories with links-->
+              <li role="listitem"><i class="fas fa-check mr-2"></i>Categories:
+              {{ range $taxonomy_term := .Params.categories}}
+                {{ with $.Site.GetPage $taxonomy_term}}
+                  <span class="workshop-terms">
+                  <a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                  </span>
+                {{ end }}
+              {{ end }}
+            </li>
+            <!-- tag with links-->
+              <li role="listitem"><i class="fas fa-check mr-2"></i>Tags: 
+              {{ range $taxonomy_term := .Params.tags}}
+                {{ with $.Site.GetPage $taxonomy_term}}  
+                  <span class="workshop-terms">
+                  <a class="workshop-terms" href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                  </span>
+                {{ end }}
+              {{ end }}
+              </li>
             </ul>
+
             <!-- workshop item duration -->
             <span role="timer"><i class="far fa-clock mr-2"></i>{{ .Params.duration }}</span>
             <!-- workshop item summary-->

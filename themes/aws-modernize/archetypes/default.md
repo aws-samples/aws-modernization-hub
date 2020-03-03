@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 level: 300
 duration: 1 hour
 date: {{ .Date }}
-image: images/AWS_workshop_3.png
+image: /images/AWS_workshop_3.png
 
 # categories is the overall themes covered. 
 categories: [DevOps, Containers, Security]

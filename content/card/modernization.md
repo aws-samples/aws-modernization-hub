@@ -3,7 +3,7 @@ title: "Modernization"
 level: 400
 duration: 4 hours
 date: 2020-02-26T18:33:42-08:00
-image: images/workshop/AWS_workshop_dig-mod.png
+image: /images/workshop/AWS_workshop_dig-mod.png
 
 # categories is the overall themes covered. 
 categories: [DevOps, Containers, Security, Automation]
