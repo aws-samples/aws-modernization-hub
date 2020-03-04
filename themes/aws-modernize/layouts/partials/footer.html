@@ -11,7 +11,15 @@
 
 <!-- JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS, then site(custom) Js-->
-    <script src="jquery/jquery-3.4.0.min.js" type="text/javascript"></script>
-    <script src="bootstrap/js/popper.min.js" type="text/javascript"></script>
-    <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="js/site.js" type="text/javascript"></script>
+    <script src="/jquery/jquery-3.4.0.min.js" type="text/javascript"></script>
+    <script src="/bootstrap/js/popper.min.js" type="text/javascript"></script>
+    <script src="/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="/js/site.js" type="text/javascript"></script>
+
+    <script type="text/javascript" src="{{"js/lunr.min.js" | relURL}}"></script>
+    <script type="text/javascript" src="{{"js/auto-complete.js" | relURL}}"></script>
+    <script type="text/javascript">
+        var baseurl = "{{.Site.BaseURL}}";
+    </script>
+    <script type="text/javascript" src="{{"js/search.js" | relURL}}"></script> 
+    
