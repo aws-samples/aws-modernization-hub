@@ -1,47 +1,6 @@
 {{ define "main" }}
 
-<!-- highlights section -->
-<section class="highlights-section" role="banner">
-  <div class="container">
-    <div class="row">
-      <!-- single highlight item -->
-      <div class="col-12 col-sm-4 d-flex">
-        <div class="float-left">
-          <img src="images/icons/AWS_icons_workshops.png"
-            alt="{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing"
-            title="{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing" role="img" />
-        </div>
-        <div class="hightlight-section-content align-self-center">
-          <h6 role="heading">{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing</h6>
-          <p>New workshops and content added all the time</p>
-        </div>
-      </div>
-      <!-- mobile specific block-->
-      <div class="w-100 d-inline d-sm-none d-block border-bottom border-bottom spacer-mob-sm"></div>
-      <div class="col-12 col-sm-4 d-flex">
-        <div class="float-left">
-          <img class="" src="images/icons/AWS_icon_experts.png" alt="Created by experts" title="Created by experts"
-            role="img" />
-        </div>
-        <div class="hightlight-section-content align-self-center">
-          <h6 role="heading">Created by experts</h6>
-          <p>Created by specialists in the field from AWS and AWS Partners</p>
-        </div>
-      </div>
-      <div class="w-100 d-inline d-sm-none d-block border-bottom border-bottom spacer-mob-sm"></div>
-      <div class="col-12 col-sm-4 d-flex">
-        <div class="float-left">
-          <img class="" src="images/icons/AWS_icon_anywhere.png" alt="Avaliable for access anywhere"
-            title="Avaliable for access anywhere" role="img" />
-        </div>
-        <div class="hightlight-section-content align-self-center">
-          <h6 role="heading">Available for access anywhere</h6>
-          <p>Globally available without restriction and mobile friendly</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+{{- partial "highlights.html" . -}}
 
 <!-- main content section -->
 <main role="main" class="bg-gray">

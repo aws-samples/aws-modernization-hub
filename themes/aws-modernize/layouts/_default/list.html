@@ -1,47 +1,6 @@
 {{ define "main" }}
 
-<!-- highlights section -->
-<section class="highlights-section" role="banner">
-  <div class="container">
-    <div class="row">
-      <!-- single highlight item -->
-      <div class="col-12 col-sm-4 d-flex">
-        <div class="float-left">
-          <img src="/images/icons/AWS_icons_workshops.png"
-            alt="{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing"
-            title="{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing" role="img" />
-        </div>
-        <div class="hightlight-section-content align-self-center">
-          <h6 role="heading">{{ len (where .Site.RegularPages "Section" "==" "card") }} workshops and growing</h6>
-          <p>New workshops and content added all the time</p>
-        </div>
-      </div>
-      <!-- mobile specific block-->
-      <div class="w-100 d-inline d-sm-none d-block border-bottom border-bottom spacer-mob-sm"></div>
-      <div class="col-12 col-sm-4 d-flex">
-        <div class="float-left">
-          <img class="" src="/images/icons/AWS_icon_experts.png" alt="Created by experts" title="Created by experts"
-            role="img" />
-        </div>
-        <div class="hightlight-section-content align-self-center">
-          <h6 role="heading">Created by experts</h6>
-          <p>Created by specialists in the field from AWS and AWS Partners</p>
-        </div>
-      </div>
-      <div class="w-100 d-inline d-sm-none d-block border-bottom border-bottom spacer-mob-sm"></div>
-      <div class="col-12 col-sm-4 d-flex">
-        <div class="float-left">
-          <img class="" src="/images/icons/AWS_icon_anywhere.png" alt="Avaliable for access anywhere"
-            title="Avaliable for access anywhere" role="img" />
-        </div>
-        <div class="hightlight-section-content align-self-center">
-          <h6 role="heading">Available for access anywhere</h6>
-          <p>Globally available without restriction and mobile friendly</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+{{- partial "highlights.html" . -}}
 
 <!-- main content section -->
 <main role="main" class="bg-gray">
@@ -50,29 +9,12 @@
     <div class="container">
       <div class="row">
         <!-- heading-->
-        
+
         <div class="col-12 col-xl-8 workshops-title">
           <h1 role="heading" class="title-1 underline-orange d-inline-block spacer-mob-heading" role="heading">
             Workshops - {{ .Data.Term }} </h1>
         </div>
         <div class="col-12 col-xl-8 pt-sm-3 pt-xl-0">
-          <!-- filter categories-->
-          <!--div class="row">
-                                    <!--filter heading--
-                                    <div class="col-12 col-sm-4 col-md-3 col-xl-3 pt-2">
-                                        <h2 class="title-2 color-blue text-right-sm"  role="heading">Categories:</h2>
-                                    </div>
-                                    <!--filter values--
-                                    <div class="col-12 col-sm-8 col-md-9 col-xl-9" role="list">
-                                        <a class="btn-grey d-inline-flex active" href="#" role="listitem">DevOps</a>
-                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
-                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Amazon EKS</a>
-                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
-                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
-                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
-                                        <a class="btn-grey d-inline-flex" href="#" role="listitem">Containers</a>
-                                    </div>
-                                </div-->
         </div>
       </div>
       <!--workshop items container-->
@@ -94,31 +36,31 @@
             <!-- workshop item benefits -->
             <ul class="list-section" role="list">
               <li role="listitem"><i class="fas fa-tachometer-alt mr-2"></i>Level: {{ .Params.level }}</li>
-              
+
               <!-- list out categories with links -->
               {{ if .IsPage }}
               <li role="listitem"><i class="fas fa-check mr-2"></i>Categories:
                 {{ range $taxonomy_term := .Params.categories}}
-                  {{ with $.Site.GetPage $taxonomy_term}}
-                    <span class="workshop-terms">
-                    <a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
-                    </span>
-                  {{ end }}
+                {{ with $.Site.GetPage $taxonomy_term}}
+                <span class="workshop-terms">
+                  <a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                </span>
+                {{ end }}
                 {{ end }}
               </li>
 
               <!-- list out tags with links -->
               {{ end }}
               {{ if .IsPage }}
-              <li role="listitem"><i class="fas fa-check mr-2"></i>Tags: 
+              <li role="listitem"><i class="fas fa-check mr-2"></i>Tags:
                 {{ range $taxonomy_term := .Params.tags}}
-                  {{ with $.Site.GetPage $taxonomy_term}}  
-                    <span class="workshop-terms">
-                    <a class="workshop-terms" href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
-                    </span>
-                  {{ end }}
+                {{ with $.Site.GetPage $taxonomy_term}}
+                <span class="workshop-terms">
+                  <a class="workshop-terms" href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                </span>
                 {{ end }}
-                </li>
+                {{ end }}
+              </li>
               {{ end }}
             </ul>
 
@@ -135,7 +77,7 @@
         </div>
         {{ end }}
       </div>
-      
+
     </div>
   </section>
   <!-- featured modules section-->
