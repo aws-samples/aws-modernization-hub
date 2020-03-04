@@ -1,0 +1,86 @@
+{{ define "main" }}
+
+{{- partial "highlights.html" . -}}
+
+<!-- main content section -->
+<main role="main" class="bg-gray">
+  <!-- workshops section-->
+  <section class="spacer-inner-tb-30">
+    <div class="container">
+      <div class="row">
+        <!-- heading-->
+
+        <div class="col-12 col-xl-8 workshops-title">
+          <h1 role="heading" class="title-1 underline-orange d-inline-block spacer-mob-heading" role="heading">
+            Workshops</h1>
+        </div>
+        <div class="col-12 col-xl-8 pt-sm-3 pt-xl-0">
+        </div>
+      </div>
+      <!--workshop items container-->
+      <div class="workshops-items-container">
+        <!--  single workshop item section-->
+        <div class="row workshops-item grid-item">
+          <div class="col-12 col-md-4 col-lg-3">
+            <a href="#" class="card" role="link">
+              <img src={{ index .Params "image" }} class="card-img-top" alt={{ .Title }} role="img" />
+              <div class="card-body">
+                <h6 class="card-text" role="heading">{{ .Title }}</h6>
+              </div>
+            </a>
+          </div>
+          <div class="col-12 col-md-8 col-lg-9">
+            <!-- workshop item title -->
+            <h2 class="title-2 color-blue" role="heading">{{ .Title }}</h2>
+            <!-- workshop item benefits -->
+            <ul class="list-section" role="list">
+              <li role="listitem"><i class="fas fa-tachometer-alt mr-2"></i>Level: {{ .Params.level }}</li>
+
+              <!-- list out categories with links -->
+              {{ if .IsPage }}
+              <li role="listitem"><i class="fas fa-check mr-2"></i>Categories:
+                {{ range $taxonomy_term := .Params.categories}}
+                {{ with $.Site.GetPage $taxonomy_term}}
+                <span class="workshop-terms">
+                  <a href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                </span>
+                {{ end }}
+                {{ end }}
+              </li>
+
+              <!-- list out tags with links -->
+              {{ end }}
+              {{ if .IsPage }}
+              <li role="listitem"><i class="fas fa-check mr-2"></i>Tags:
+                {{ range $taxonomy_term := .Params.tags}}
+                {{ with $.Site.GetPage $taxonomy_term}}
+                <span class="workshop-terms">
+                  <a class="workshop-terms" href="{{ .Permalink }}">{{ $taxonomy_term }}</a>
+                </span>
+                {{ end }}
+                {{ end }}
+              </li>
+              {{ end }}
+            </ul>
+
+            <!-- workshop item duration -->
+            <span role="timer"><i class="far fa-clock mr-2"></i>{{ .Params.duration }}</span>
+            <!-- workshop item summary-->
+            <p class="item-summary">
+              {{ .Content }}
+            </p>
+            <!-- workshop item get started button-->
+            <button onclick="window.location.href = '{{ .Params.workshop_url }}';" type="button"
+              class="btn btn-standard" role="button">Get started</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+  <!-- featured modules section-->
+
+</main>
+
+
+{{ end }}

@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://awsworkshop.io"
 languageCode = "en-us"
 title = "Modernization workshop"
 theme = "aws-modernize"
@@ -6,3 +6,7 @@ theme = "aws-modernize"
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "RSS"]
