@@ -1,4 +1,4 @@
-baseURL = "https://awsworkshop.io"
+baseURL = "https://awsworkshop.io/"
 languageCode = "en-us"
 title = "Modernization workshop"
 theme = "aws-modernize"
