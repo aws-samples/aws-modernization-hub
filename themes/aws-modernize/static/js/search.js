@@ -51,7 +51,8 @@ function initLunr() {
  */
 function search(queryTerm) {
     // Find the item in our index corresponding to the lunr one to have more info
-    return lunrIndex.search(queryTerm+"^100"+" "+queryTerm+"*^10"+"*"+queryTerm+"^10"+" "+queryTerm+"~2^1").map(function(result) {
+    //return lunrIndex.search(queryTerm+"^100"+" "+queryTerm+"*^10"+"*"+queryTerm+"^10"+" "+queryTerm+"~2^1").map(function(result) {
+    return lunrIndex.search("*"+queryTerm+"*").map(function(result) {
             return pagesIndex.filter(function(page) {
                 return page.uri === result.ref;
             })[0];
