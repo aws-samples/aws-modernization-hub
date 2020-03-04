@@ -4,6 +4,7 @@ level: 300
 duration: 4 hours
 date: 2020-02-26T18:40:47-08:00
 image: /images/AWS_workshop_1.png
+description: shift security testing left with Snyk dependency scanning.
 
 # categories is the overall themes covered. 
 categories: [DevOps, Containers, Security]

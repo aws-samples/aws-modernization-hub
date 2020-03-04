@@ -24,6 +24,9 @@ function initLunr() {
                 this.field('tags', {
 		    boost: 10
                 });
+                this.field('categories', {
+                    boost: 10
+                });
                 this.field("content", {
 		    boost: 5
                 });

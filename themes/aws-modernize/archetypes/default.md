@@ -4,6 +4,7 @@ level: 300
 duration: 1 hour
 date: {{ .Date }}
 image: /images/AWS_workshop_3.png
+description: describe the workshop here
 
 # categories is the overall themes covered. 
 categories: [DevOps, Containers, Security]
