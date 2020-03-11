@@ -13,7 +13,7 @@ categories: [Containers, Security]
 tags: [ECS, RDS, Secrets Manager]
 
 # Full URL to the workshop
-workshop_url: https://github.com/aws-samples/modernization-unicorn-store/tree/902d9d0f69f0664297171f94df4d6878400e28bb
+workshop_url: https://github.com/aws-samples/modernization-unicorn-store/tree/v1.0
 ---
 
 In this module, you will learn how to containerize an existing .Net application and implement modern cloud based security principles to secure your application in production.
