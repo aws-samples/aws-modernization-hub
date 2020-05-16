@@ -4,6 +4,7 @@ level: 200
 duration: 2 to 8 hours
 date: 2020-03-27T18:40:47-08:00
 image: /images/AWS_workshop_1.png
+logo: /images/Open_Shift_Logo.png
 description: Exploring OpenShift and AWS
 
 # categories is the overall themes covered. 

@@ -4,6 +4,7 @@ level: 400
 duration: 2 hours
 date: 2020-02-26T18:46:31-08:00
 image: /images/AWS_workshop_3.png
+logo: /images/Atlassian_Logo.png
 description: atlassian code suite integration
 
 # categories is the overall themes covered. 

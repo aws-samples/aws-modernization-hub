@@ -15,6 +15,16 @@
     font-weight:400;
     font-style:normal
 }
+
+h6 {
+    font-weight: bold;
+}
+
+.item-back {
+   margin-left: 1%;
+   background: #d5dbdb
+   background: linear-gradient(90deg, rgba(184,193,185,1) 4%, rgba(207,226,230,0.3337710084033614) 100%, rgba(254,254,254,0.9724264705882353) 100%); 
+}
       
 /* Color Variables  */
 :root {
@@ -120,6 +130,11 @@ img.aws-logo {
     margin: 11px 20px 11px 0;
 }
 
+.partner-logo {
+    width:63px;
+    height:50px;
+    margin-left: 70%;  
+}
 /*Homepage styles */
 .card {
     margin-bottom: 25px;
@@ -150,23 +165,37 @@ img.aws-logo {
 .hightlight-section-content p {
     margin: 0;
 }
+
+
+.top-icons { 
+    margin: -22px;
+    padding-right: 3%;
+    padding-bottom: 1%;
+ }
+
+
 .text-md-white {
     color: #fff;
-    font-size: 20px;
+    font-size: 16px;
 }
 .image-icon{
    width: 150px;
    vertical-align: middle;
 }
 
+/*header Style */
+.header-style {
+    padding-left: 1%;
+    padding-right: 1%;
+}
 /* Banner Image */
 .hero-image {
     background-image: url(../../images/banner/AWS-template-hero_500.jpg);
     background-size: cover;
     height: auto;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    min-height: 685px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
 }
 
 /* styles for the buttons */
@@ -456,6 +485,7 @@ a.btn-grey:hover, a.btn-grey:active, a.btn-grey.active {
 .spacer-inner-tb-30{
     padding-top: 30px;
     padding-bottom: 30px;
+
 }
 .spacer-inner-b-30{
     padding-bottom: 30px
@@ -610,7 +640,8 @@ a.btn-grey:hover, a.btn-grey:active, a.btn-grey.active {
     font-family: AmazonEmberBold, Helvetica, Arial, 'Sans-Serif';
     color: var(--primary-color);
     padding: 13px 15px;
-    white-space: nowrap;
+    white-space: none;
+    
 }
 .grid-item .card-text{
     text-overflow: ellipsis;
@@ -623,10 +654,20 @@ a.btn-grey:hover, a.btn-grey:active, a.btn-grey.active {
 .grid-item .item-summary {
     margin: 20px 0;
 }
-
 /* generic content specific styles */
 .content-section a {
     text-decoration: underline;
+}
+
+.row-allignment{
+    margin-right: 2%;
+    margin-left: 2%;
+}
+.content {
+    height: 200px;
+}
+.content-inner {
+    height: 16vh;
 }
 ul.list-section {
     list-style: none;
@@ -663,7 +704,7 @@ ul.list-section {
     }
     .hero-image {
         background-position: 66% 100%;
-        min-height: 430px;
+        min-height: 170px;
     }
 }
 
