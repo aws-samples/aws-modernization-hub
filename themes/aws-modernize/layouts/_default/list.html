@@ -30,9 +30,19 @@
               </div>
             </a>
           </div>
+
           <div class="col-12 col-md-8 col-lg-9">
-            <!-- workshop item title -->
-            <h2 class="title-2 color-blue" role="heading">{{ .Title }}</h2>
+            <!-- workshop 
+              item title -->
+              <div class="row">
+              <div class="col-6">
+                 <h2 class="title-2 color-blue" role="heading">{{ .Title }}</h2>
+              </div>
+              <div class="col-6">
+                <img class="partner-logo" src={{ index .Params "logo" }}  >
+              </div>
+            </div>
+            
             <!-- workshop item benefits -->
             <ul class="list-section" role="list">
               <li role="listitem"><i class="fas fa-tachometer-alt mr-2"></i>Level: {{ .Params.level }}</li>
