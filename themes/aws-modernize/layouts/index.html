@@ -20,7 +20,7 @@
       <!--workshop items container-->
       <div class="workshops-items-container">
 
-        {{ range first 10 ( where .Site.RegularPages "Section" "card" ) }}
+        {{ range ( where .Site.RegularPages "Section" "card" ) }}
         <!--  single workshop item section-->
         <div class="row workshops-item grid-item">
           <div class="col-4 col-md-4 col-lg-3">

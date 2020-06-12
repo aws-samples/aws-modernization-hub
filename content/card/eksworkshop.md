@@ -2,7 +2,7 @@
 title: Amazon EKS Workshop
 level: 200
 duration: 2 hours
-date: 2020-06-11T17:14:07-08:00
+date: 2020-06-10T17:14:07-08:00
 image: /images/AWS_workshop_1.png
 logo: /images/AWS_Logo.png
 description: The intent of this workshop is to educate users about the features of Amazon EKS
