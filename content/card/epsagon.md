@@ -1,5 +1,5 @@
 ---
-title: Intro to AWS App Mesh
+title: Intro to Epsagon
 level: 300-400
 duration: 2 hours
 date: 2020-07-01T17:10:07-08:00
