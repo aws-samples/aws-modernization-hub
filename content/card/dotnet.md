@@ -4,7 +4,6 @@ level: 300
 duration: 2 hours
 date: 2020-02-26T18:53:36-08:00
 image: /images/AWS_workshop_4.png
-logo: /images/AWS_Logo.png
 description: how to use secrets manager integration with .net application
 
 # categories is the overall themes covered. 

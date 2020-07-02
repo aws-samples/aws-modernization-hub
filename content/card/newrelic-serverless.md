@@ -4,7 +4,6 @@ level: 200-300
 duration: 3 hours
 date: 2020-04-27T16:13:53-07:00
 image: /images/AWS_workshop_4.png
-logo: /images/New_Relic_Logo.png
 description: New Relic One - Serverless 
 
 # categories is the overall themes covered. 

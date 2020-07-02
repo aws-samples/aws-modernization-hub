@@ -4,7 +4,6 @@ level: 300
 duration: 3 hours
 date: 2020-02-26T19:06:07-08:00
 image: /images/AWS_workshop_1.png
-logo: /images/AWS_Logo.png
 description: devsecops workshop using hadolint and turfflehog to shift security scanning left
 
 # categories is the overall themes covered. 
