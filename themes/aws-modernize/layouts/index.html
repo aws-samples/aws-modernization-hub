@@ -23,7 +23,7 @@
         <!--  single workshop item section-->
         <div class="row workshops-item grid-item">
           <div class="col-12 col-md-4 col-lg-3">
-            <a href="#" class="card" role="link">
+            <a target="_blank" href="{{ .Params.workshop_url }}" class="card" role="link">
               <img src={{ index .Params "image" }} class="card-img-top" alt={{ .Title }} role="img" />
               <div class="card-body">
                 <h6 class="card-text" role="heading">{{ .Title }}</h6>
