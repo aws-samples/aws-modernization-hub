@@ -1,5 +1,5 @@
 ---
-title: Collaborating with Jira
+title: Cprime Collaborating with Jira
 level: 200
 duration: 2 hours
 date: 2020-07-29T20:10:07-08:00
@@ -17,4 +17,4 @@ tags: [Jira, DevOps_Series]
 workshop_url: https://cprime.awsworkshop.io/
 ---
 
-In this workshop, you will learn how to use Jira for effective planning and collaboration.  
+In this workshop, you will learn from Cprime how to use Jira for effective planning and collaboration.  
