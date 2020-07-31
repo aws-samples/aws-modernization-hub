@@ -11,7 +11,7 @@ description: Learn how to automate CI/CD using enterprise grade Jenkins
 categories: [CICD]
 
 # tags are the technologies covered in the workshop
-tags: [Jenkins, DevOps Series]
+tags: [Jenkins, DevOps_Series]
 
 # Full URL to the workshop
 workshop_url: https://cloudbees.awsworkshop.io/

@@ -11,7 +11,7 @@ description: Learn from Cprime how to effectively plan and collaborate using Jir
 categories: [Planning, Collaboration]
 
 # tags are the technologies covered in the workshop
-tags: [Jira, DevOps Series]
+tags: [Jira, DevOps_Series]
 
 # Full URL to the workshop
 workshop_url: https://cprime.awsworkshop.io/
