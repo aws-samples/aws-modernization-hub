@@ -2,7 +2,7 @@
 title: CI/CD with CloudBees Jenkins
 level: 200
 duration: 2 hours
-date: 2020-07-23T20:10:07-08:00
+date: 2020-07-30T20:10:07-08:00
 image: /images/AWS_workshop_3.png
 logo: /images/AWS_Logo.png
 description: Learn how to automate CI/CD using enterprise grade Jenkins
