@@ -8,7 +8,7 @@ logo: /images/AWS_Logo.png
 description: Learn how to easily build security into your software development life cycle.
 
 # categories is the overall themes covered. 
-categories: [DevOps, DevSecOps, Containers, Security, CICD]
+categories: [DevOps, Containers, Security, CICD]
 
 # tags are the technologies covered in the workshop
 tags: [Snyk, Bitbucket, DevOps_Series, ECR, EKS]
