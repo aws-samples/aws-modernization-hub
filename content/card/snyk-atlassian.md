@@ -11,7 +11,7 @@ description: Learn how to easily build security into your software development l
 categories: [DevOps, Containers, Security, CICD]
 
 # tags are the technologies covered in the workshop
-tags: [Snyk, Bitbucket, DevOps_Series, ECR, EKS]
+tags: [Bitbucket, DevOps_Series, ECR, EKS]
 
 # Full URL to the workshop
 workshop_url: https://snyk-atlassian.awsworkshop.io/
