@@ -2,7 +2,7 @@
 title: DevSecOps with Atlassian & Snyk
 level: 300
 duration: 2 hours
-date: 2020-08-03T20:10:07-08:00
+date: 2020-08-02T20:10:07-08:00
 image: /images/AWS_workshop_3.png
 logo: /images/AWS_Logo.png
 description: Learn how to easily build security into your software development life cycle.
