@@ -1,5 +1,5 @@
 ---
-title: CI/CD with CloudBees Jenkins
+title: CI/CD with CloudBees
 level: 200
 duration: 2 hours
 date: 2020-07-30T20:10:07-08:00
