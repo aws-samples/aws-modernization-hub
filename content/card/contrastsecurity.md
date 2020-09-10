@@ -13,7 +13,7 @@ categories: [DevOps, Containers, Security]
 tags: [ECS, Fargate, Code Pipeline, CodeBuild]
 
 # Full URL to the workshop
-workshop_url: https://contrastsecurity.modernize.awsworkshop.io/
+workshop_url: https://contrastsecurity.awsworkshop.io/
 ---
 
 In this workshop you will learn how Contrast technology platform is a fundamentally new way to protect a company from threats, giving our customers visibility and accuracy into their applications. 
