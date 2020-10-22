@@ -14,7 +14,7 @@ categories: [Containers]
 tags: [EKS, Fargate, ML, GitOps]
 
 # Full URL to the workshop
-workshop_url: https://eksworkshop.com/
+workshop_url: https://weaveworks-gitops.awsworkshop.io/
 ---
 
 In these workshop modules Weaveworks will introduce you to GitOps on EKS including an introduction to the 4 principles of GitOps, building reliable EKS enviroments, incorporating security, accelerating software development and managing Machine Learning and Artificial Intelligence models w/GitOps on EKS.
