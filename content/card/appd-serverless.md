@@ -10,7 +10,7 @@ description: Gain hands-on experience using AppDynamics, an AWS advanced technol
 categories: [Serverless, DevOps]
 
 # tags are the technologies covered in the workshop
-tags: [Python, NodeJS, Java, Lambda, Serverless framework]
+tags: [Python, NodeJS, Java, Lambda, Serverless_framework]
 
 # Full URL to the workshop
 workshop_url: https://appd-serverless.awsworkshop.io/
