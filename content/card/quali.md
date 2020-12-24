@@ -8,7 +8,7 @@ logo: /images/AWS_Logo.png
 description: Gain hands-on experience with Quali, an AWS advanced technology ISV partner, to automatically deploy and release an e-commerce application as part of your DevOps practice.
 
 # categories is the overall themes covered. 
-categories: [DevOps, Application Automation]
+categories: [DevOps, Application-Automation]
 
 # tags are the technologies covered in the workshop
 tags: [Colony, Infrastructure as Code, Jenkins, Terraform, EC2, DocumentDB]
