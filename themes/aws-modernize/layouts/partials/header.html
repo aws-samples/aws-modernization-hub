@@ -1,21 +1,31 @@
 <!-- header section-->
-<header role="banner" class="bg-blue">
+<header role="banner" class="header">
   <div class="container">
-    <div class="row">
+    <div class="row ">
       <div class="col-auto mr-auto">
         <img class="navbar-brand d-flex align-items-center aws-logo" src="/images/AWS_logo_RGB_REV.svg"
           alt="amazon-logo" />
         <nav class="nav spacer-inner-tb-20" role="navigation">
-          <a class="nav-item active" href="/index.html" role="link"> Home </a>
+          <a class="nav-item   " href="/" role="link"> Home </a>
+          <a class="nav-item " href="/categories/observability/" role="link"> Observability </a>
+          <a class="nav-item " href="/categories/containers/" role="link"> Containers</a>
+          <a class="nav-item " href="/categories/devops/" role="link"> DevOps </a>
+          <a class="nav-item " href="/categories/security/" role="link"> Security </a>
+          <a class="nav-item " href="/categories/iac/" role="link"> IAC </a>
+          <a class="nav-item " href="/categories/serverless/" role="link"> Serverless</a>
+          <a class="nav-item " href="/categories/testing/" role="link"> Testing</a>
+          
           <!--a class="nav-item" href="explore.html" role="link"> Explore </a-->
         </nav>
         
       </div>
+      
       {{ if not .Site.Params.disableSearch }}
         {{ partial "search.html" . }}
       {{ end }}
     </div>
   </div>
+  
 </header>
 
 

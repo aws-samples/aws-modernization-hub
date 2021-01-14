@@ -7,7 +7,7 @@ image: /images/workshop/AWS_workshop_dig-mod.png
 description: Application Observability with the New Relic One platform 
 
 # categories is the overall themes covered. 
-categories: [DevOps, Containers, Automation, Monitoring, APM]
+categories: [DevOps, Containers, Automation, Observability, APM]
 
 # tags are the technologies covered in the workshop
 tags: [CodeCommit, CodeBuild, CodePipeline, Fargate, New Relic APM, New Relic One Dashboards]

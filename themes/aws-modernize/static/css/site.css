@@ -32,6 +32,13 @@
 .bg-blue {
     background-color: var(--primary-color);
 }
+.header {
+    background-color: var(--primary-color);
+    position:fixed;
+    top:0;
+    width:100%;
+    z-index:100;
+}
 .bg-gray {
     background-color: var(--bg-gray);
 }
@@ -250,7 +257,7 @@ a.btn-grey:hover, a.btn-grey:active, a.btn-grey.active {
     background-color: var(--secondary-color);
     content: " ";
     bottom: -7px;
-}
+}z
 .nav-secondary {
     padding: 10px 0 10px 0;
     font-size: 20px;

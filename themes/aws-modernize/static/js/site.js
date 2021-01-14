@@ -75,7 +75,11 @@ function animateContent(direction) {
 
     $('.content').animate({ "marginTop": animationOffset + "px" }, {duration: animationTime, easing: "linear"});
 }
- 
+
+ $(document).ready(function() {
+    
+    $('a[href="' + location.pathname + '"]').closest('a').addClass('active'); 
+  });
 //Function used for checking the offset values and hiding the top/down arrow when not needed 
 function toggleScroll() {
     var maxOffset = Math.abs(parseInt($('.menu-holder').height() - $('.content').height())),
