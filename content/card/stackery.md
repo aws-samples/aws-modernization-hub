@@ -1,5 +1,5 @@
 ---
-title: Serverless ASP.NET Framework Modernization Workshop
+title: Serverless ASP.NET Framework Modernization Workshop with Stackery
 level: 200
 duration: 2 hours
 date: 2021-04-20T15:10:07-08:00
