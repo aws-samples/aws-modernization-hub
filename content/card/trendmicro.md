@@ -2,7 +2,7 @@
 title: Securing AWS Infrastructure with Trend Micro
 level: 200
 duration:  1.5 hours
-date: 2021-07-15T13:46:07-08:00
+date: 2021-07-14T00:15:00-08:00
 image: /images/AWS_workshop_3.png
 logo: /images/AWS_Logo.png
 description: Learn how to leverage infrastructure as code (IaC) and Security to automate your cloud security efforts. 
