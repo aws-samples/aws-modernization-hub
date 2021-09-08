@@ -2,9 +2,9 @@
 title: DevSecOps with Bridgecrew
 level: 300
 duration: 2 hours
-date: 2020-12-05T11:40:47-08:00
+date: 2021-09-08T07:40:47-08:00
 image: /images/AWS_workshop_1.png
-description: leverage infrastructure as code (IaC) and DevSecOps to automate your cloud security with Bridgecrew
+description: Learn about securing CloudFormation templates from code to cloud using Bridgecrew’s integrations with VS Code, CodeBuild, CodePipeline, GitHub and AWS runtime. 
 
 # categories is the overall themes covered. 
 categories: [DevOps, IAC, Security]
@@ -13,7 +13,7 @@ categories: [DevOps, IAC, Security]
 tags: [CodeCommit, CodeBuild, Code Pipeline, CloudFormation]
 
 # Full URL to the workshop
-workshop_url: https://bridgecrew.awsworkshop.io/
+workshop_url: https://bridgecrew.awsworkshop.io/cloudformation.html
 ---
 
-In this workshop, you’ll learn how to leverage infrastructure as code (IaC) and DevSecOps to automate your cloud security efforts. If you’re interested in making cloud security more efficient, proactive, and accessible to developers, this workshop is for you!
+Learn about securing CloudFormation templates from code to cloud using Bridgecrew’s integrations with VS Code, CodeBuild, CodePipeline, GitHub and AWS runtime.
