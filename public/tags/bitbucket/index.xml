@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitbucket on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/bitbucket/</link>
+    <description>Recent content in Bitbucket on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 20:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/bitbucket/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>https://awsworkshop.io/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/snyk-atlassian/</guid>
+      <description>In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.</description>
+    </item>
+    
+  </channel>
+</rss>

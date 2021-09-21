@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodeBuild on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/codebuild/</link>
+    <description>Recent content in CodeBuild on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Sep 2021 07:40:47 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/codebuild/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevSecOps with Bridgecrew</title>
+      <link>https://awsworkshop.io/card/bridgecrew/</link>
+      <pubDate>Wed, 08 Sep 2021 07:40:47 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/bridgecrew/</guid>
+      <description>Learn about securing CloudFormation templates from code to cloud using Bridgecrew’s integrations with VS Code, CodeBuild, CodePipeline, GitHub and AWS runtime.</description>
+    </item>
+    
+    <item>
+      <title>DevSecOps with Bridgecrew and Terraform</title>
+      <link>https://awsworkshop.io/card/bridgecrewterraform/</link>
+      <pubDate>Wed, 08 Sep 2021 07:40:47 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/bridgecrewterraform/</guid>
+      <description>Learn about securing Terraform templates from code to cloud using Bridgecrew’s integrations with VS Code, GitHub, Terraform Cloud, and AWS runtime.</description>
+    </item>
+    
+    <item>
+      <title>Securing AWS Infrastructure with Trend Micro</title>
+      <link>https://awsworkshop.io/card/trendmicro/</link>
+      <pubDate>Wed, 14 Jul 2021 00:15:00 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/trendmicro/</guid>
+      <description>In this workshop, you’ll learn how to leverage infrastructure as code (IaC) and Security to automate your cloud security efforts. If you’re interested in making cloud security more efficient, automated, proactive, and accessible to developers, cloud architects, DevOps engineers this workshop is for you!</description>
+    </item>
+    
+    <item>
+      <title>Application modernization with AWS and Docker</title>
+      <link>https://awsworkshop.io/card/docker-workshop/</link>
+      <pubDate>Mon, 29 Mar 2021 10:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/docker-workshop/</guid>
+      <description>In this hands on session, we will take a sample two tier application and use Docker Compose to power up local development on AWS Elastic Container Service (ECS) and then to deploy to AWS Cloud, all with a consistent developer experience using Docker Compose CLI. During the session, we will uncover how to embed your existing services in the compose file and simulate a real world scenario by fine tuning your AWS Cloudformation templates using docker compose overlays and finally orchestrate continuous deployment.</description>
+    </item>
+    
+    <item>
+      <title>Secure Devops with AWS &amp; Sysdig</title>
+      <link>https://awsworkshop.io/card/sysdig/</link>
+      <pubDate>Sun, 10 Jan 2021 18:40:47 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/sysdig/</guid>
+      <description>In this workshop, you will learn how to securely run cloud applications in production by automating AWS Fargate and ECR image scanning directly in your AWS environment. You will also learn how to improve the security of your cloud infrastructure using AWS CloudTrail and Sysdig CloudConnector.</description>
+    </item>
+    
+    <item>
+      <title>Test Automation with Cognizant</title>
+      <link>https://awsworkshop.io/card/cognizant/</link>
+      <pubDate>Sun, 09 Aug 2020 14:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/cognizant/</guid>
+      <description>In this workshop, you will learn from Cognizant how to continuously test an application along different portions of the DevOps CI/CD lifecycle.</description>
+    </item>
+    
+    <item>
+      <title>Snyk</title>
+      <link>https://awsworkshop.io/card/snyk/</link>
+      <pubDate>Wed, 26 Feb 2020 18:40:47 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/snyk/</guid>
+      <description>In this workshop, you will learn how to add security testing to a CI/CD pipeline of a dockerized application using AWS CodeCommit, AWS CodeBuild, and AWS CodePipeline.</description>
+    </item>
+    
+    <item>
+      <title>Contrast Security</title>
+      <link>https://awsworkshop.io/card/contrastsecurity/</link>
+      <pubDate>Mon, 24 Feb 2020 22:05:01 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/contrastsecurity/</guid>
+      <description>In this workshop you will learn how Contrast technology platform is a fundamentally new way to protect a company from threats, giving our customers visibility and accuracy into their applications.</description>
+    </item>
+    
+  </channel>
+</rss>

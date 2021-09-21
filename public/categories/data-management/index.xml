@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-management on Modernization workshop</title>
+    <link>https://awsworkshop.io/categories/data-management/</link>
+    <description>Recent content in Data-management on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Dec 2020 17:46:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/categories/data-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving data challenges in cloud applications with Redis</title>
+      <link>https://awsworkshop.io/card/redislabs/</link>
+      <pubDate>Wed, 23 Dec 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/redislabs/</guid>
+      <description>Learn what some key data challenges are with cloud applications, and how to use standard but little known features of Redis to solve them</description>
+    </item>
+    
+  </channel>
+</rss>

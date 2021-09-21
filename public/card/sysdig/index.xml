@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secure Devops with AWS &amp; Sysdig on Modernization workshop</title>
+    <link>https://awsworkshop.io/card/sysdig/</link>
+    <description>Recent content in Secure Devops with AWS &amp; Sysdig on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 18:40:47 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/card/sysdig/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -7,10 +7,10 @@ image: /images/workshop/AWS_workshop_dig-mod.png
 description: Amazon EKS Observability with Pixie by New Relic One platform 
 
 # categories is the overall themes covered. 
-categories: [DevOps, Containers, Amazon EKS, Automation, Observability, Pixie]
+categories: [DevOps, Containers, Amazon EKS, Automation, Observability]
 
 # tags are the technologies covered in the workshop
-tags: [Amazon EKS, Fargate, New Relic APM,Pixie, New Relic One Dashboards]
+tags: [Amazon EKS, Fargate, New Relic APM, Pixie, New Relic One Dashboards]
 
 # Full URL to the workshop
 workshop_url: https://newrelic.awsworkshop.io/

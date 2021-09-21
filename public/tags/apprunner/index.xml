@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AppRunner on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/apprunner/</link>
+    <description>Recent content in AppRunner on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jun 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/apprunner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Modernization with CircleCI</title>
+      <link>https://awsworkshop.io/card/circleci/</link>
+      <pubDate>Thu, 10 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/circleci/</guid>
+      <description>In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with CircleCI to release features and functionality at a faster pace.</description>
+    </item>
+    
+  </channel>
+</rss>

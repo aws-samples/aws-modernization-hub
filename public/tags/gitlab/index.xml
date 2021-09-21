@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitLab on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/gitlab/</link>
+    <description>Recent content in GitLab on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Oct 2020 17:46:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build a modern architecture with GitLab, Hashicorp and Gremlin</title>
+      <link>https://awsworkshop.io/card/ghg_workshop/</link>
+      <pubDate>Wed, 21 Oct 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/ghg_workshop/</guid>
+      <description>In this workshop we will work with GitLab, Hashicorp and Gremlin to show how to detect single points of failure within a gitflow deployment.</description>
+    </item>
+    
+  </channel>
+</rss>
