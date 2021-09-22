@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EKS on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/eks/</link>
+    <description>Recent content in EKS on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jun 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/eks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Modernization with Aqua</title>
+      <link>https://awsworkshop.io/card/aqua/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/aqua/</guid>
+      <description>In this workshop you will learn how to secure your workloads on Amazon EKS using Aqua&amp;rsquo;s comprehensive DevSecOps platform and tooling</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Armory</title>
+      <link>https://awsworkshop.io/card/armory/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/armory/</guid>
+      <description>In this workshop you will learn how to use Armory to provision an EKS Cluster and configure different deployment types as well as how to scale and rollback deployments.</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Tigera</title>
+      <link>https://awsworkshop.io/card/tigera/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/tigera/</guid>
+      <description>In this workshop you will learn how to design, deploy, and observe security and networking policies in an EKS environment using Calico</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with AWS, Snyk and Docker</title>
+      <link>https://awsworkshop.io/card/docker-snyk/</link>
+      <pubDate>Tue, 04 May 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/docker-snyk/</guid>
+      <description>In this workshop you will learn how to scan containerized applications on Amazon EKS using the Docker CLI tool developed in partnership with Snyk and Docker. We will learn about Open Source vulnerabilities introduced by your Container Base Image and your application dependencies.</description>
+    </item>
+    
+    <item>
+      <title>AWS Modernization Workshop with Harness</title>
+      <link>https://awsworkshop.io/card/harness/</link>
+      <pubDate>Thu, 29 Apr 2021 13:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/harness/</guid>
+      <description>In this workshop, you will gain hands-on experience using Harness to deploy an application to AWS EKS. Harness is a self-service CI/CD platform that allows engineers and DevOps team to build, test, deploy, and verify software, on-demand. This is a hands-on workshop where you will learn how to leverage Harness for easier deployments of your application.</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Cisco Appdynamics</title>
+      <link>https://awsworkshop.io/card/appd-modernization/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://awsworkshop.io/card/appd-modernization/</guid>
+      <description>Learn how Appdynamics Observability can help you apply modernization strategies that keep your digital-first organization moving at speed, ensure operational optimization, avoid unnecessary risks, and maximize your innovation</description>
+    </item>
+    
+    <item>
+      <title>GitOps on EKS with Weaveworks</title>
+      <link>https://awsworkshop.io/card/weaveworks/</link>
+      <pubDate>Wed, 21 Oct 2020 17:14:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/weaveworks/</guid>
+      <description>In these workshop modules Weaveworks will introduce you to GitOps on EKS including an introduction to the 4 principles of GitOps, building reliable EKS enviroments, incorporating security, accelerating software development and managing Machine Learning and Artificial Intelligence models w/GitOps on EKS.</description>
+    </item>
+    
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>https://awsworkshop.io/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/snyk-atlassian/</guid>
+      <description>In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.</description>
+    </item>
+    
+    <item>
+      <title>Amazon EKS Workshop</title>
+      <link>https://awsworkshop.io/card/eksworkshop/</link>
+      <pubDate>Wed, 10 Jun 2020 17:14:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/eksworkshop/</guid>
+      <description>In this workshop, we will explore multiple ways to configure VPC, ALB, and EC2 Kubernetes workers, and Amazon Elastic Kubernetes Service.</description>
+    </item>
+    
+  </channel>
+</rss>

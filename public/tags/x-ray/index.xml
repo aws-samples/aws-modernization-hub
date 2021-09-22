@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X-Ray on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/x-ray/</link>
+    <description>Recent content in X-Ray on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Oct 2020 14:46:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/x-ray/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Observability Workshop</title>
+      <link>https://awsworkshop.io/card/observability_workshop/</link>
+      <pubDate>Wed, 14 Oct 2020 14:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/observability_workshop/</guid>
+      <description>This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.</description>
+    </item>
+    
+  </channel>
+</rss>

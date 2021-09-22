@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kubernetes on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/kubernetes/</link>
+    <description>Recent content in Kubernetes on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Jun 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/kubernetes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Modernization with Datadog</title>
+      <link>https://awsworkshop.io/card/datadog/</link>
+      <pubDate>Tue, 08 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/datadog/</guid>
+      <description>In this workshop we are going to look at moving an application from EC2 instances to Kubernetes. Then we will transition the app from the current environment to Kubernetes. From there we will look at what is required to monitor the application to ensure it is performing well.</description>
+    </item>
+    
+  </channel>
+</rss>

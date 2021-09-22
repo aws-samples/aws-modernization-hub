@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevSecOps on Modernization workshop</title>
+    <link>https://awsworkshop.io/categories/devsecops/</link>
+    <description>Recent content in DevSecOps on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Aug 2021 00:15:00 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/categories/devsecops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trend Micro S3 Malware Scanning</title>
+      <link>https://awsworkshop.io/card/trendmicro-s3/</link>
+      <pubDate>Mon, 09 Aug 2021 00:15:00 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/trendmicro-s3/</guid>
+      <description>In this workshop, you will learn how to scan your objects stored in Amazon S3 buckets against malware and integrate them into your custom workflows by automating with your current resources, directly into your AWS environment.</description>
+    </item>
+    
+    <item>
+      <title>Securing AWS Infrastructure with Trend Micro</title>
+      <link>https://awsworkshop.io/card/trendmicro/</link>
+      <pubDate>Wed, 14 Jul 2021 00:15:00 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/trendmicro/</guid>
+      <description>In this workshop, you’ll learn how to leverage infrastructure as code (IaC) and Security to automate your cloud security efforts. If you’re interested in making cloud security more efficient, automated, proactive, and accessible to developers, cloud architects, DevOps engineers this workshop is for you!</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Aqua</title>
+      <link>https://awsworkshop.io/card/aqua/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/aqua/</guid>
+      <description>In this workshop you will learn how to secure your workloads on Amazon EKS using Aqua&amp;rsquo;s comprehensive DevSecOps platform and tooling</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with CircleCI</title>
+      <link>https://awsworkshop.io/card/circleci/</link>
+      <pubDate>Thu, 10 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/circleci/</guid>
+      <description>In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with CircleCI to release features and functionality at a faster pace.</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with AWS, Snyk and Docker</title>
+      <link>https://awsworkshop.io/card/docker-snyk/</link>
+      <pubDate>Tue, 04 May 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/docker-snyk/</guid>
+      <description>In this workshop you will learn how to scan containerized applications on Amazon EKS using the Docker CLI tool developed in partnership with Snyk and Docker. We will learn about Open Source vulnerabilities introduced by your Container Base Image and your application dependencies.</description>
+    </item>
+    
+  </channel>
+</rss>

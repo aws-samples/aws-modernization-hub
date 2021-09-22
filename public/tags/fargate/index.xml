@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fargate on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/fargate/</link>
+    <description>Recent content in Fargate on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Mar 2021 10:46:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/fargate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application modernization with AWS and Docker</title>
+      <link>https://awsworkshop.io/card/docker-workshop/</link>
+      <pubDate>Mon, 29 Mar 2021 10:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/docker-workshop/</guid>
+      <description>In this hands on session, we will take a sample two tier application and use Docker Compose to power up local development on AWS Elastic Container Service (ECS) and then to deploy to AWS Cloud, all with a consistent developer experience using Docker Compose CLI. During the session, we will uncover how to embed your existing services in the compose file and simulate a real world scenario by fine tuning your AWS Cloudformation templates using docker compose overlays and finally orchestrate continuous deployment.</description>
+    </item>
+    
+    <item>
+      <title>Secure Devops with AWS &amp; Sysdig</title>
+      <link>https://awsworkshop.io/card/sysdig/</link>
+      <pubDate>Sun, 10 Jan 2021 18:40:47 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/sysdig/</guid>
+      <description>In this workshop, you will learn how to securely run cloud applications in production by automating AWS Fargate and ECR image scanning directly in your AWS environment. You will also learn how to improve the security of your cloud infrastructure using AWS CloudTrail and Sysdig CloudConnector.</description>
+    </item>
+    
+    <item>
+      <title>GitOps on EKS with Weaveworks</title>
+      <link>https://awsworkshop.io/card/weaveworks/</link>
+      <pubDate>Wed, 21 Oct 2020 17:14:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/weaveworks/</guid>
+      <description>In these workshop modules Weaveworks will introduce you to GitOps on EKS including an introduction to the 4 principles of GitOps, building reliable EKS enviroments, incorporating security, accelerating software development and managing Machine Learning and Artificial Intelligence models w/GitOps on EKS.</description>
+    </item>
+    
+    <item>
+      <title>Amazon EKS Workshop</title>
+      <link>https://awsworkshop.io/card/eksworkshop/</link>
+      <pubDate>Wed, 10 Jun 2020 17:14:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/eksworkshop/</guid>
+      <description>In this workshop, we will explore multiple ways to configure VPC, ALB, and EC2 Kubernetes workers, and Amazon Elastic Kubernetes Service.</description>
+    </item>
+    
+    <item>
+      <title>Amazon ECS Workshop</title>
+      <link>https://awsworkshop.io/card/ecsworkshop/</link>
+      <pubDate>Wed, 10 Jun 2020 17:11:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/ecsworkshop/</guid>
+      <description>In this workshop, we will launch a frontend and multpile backend services on AWS Elastic Container Service, and explore how you might adopt this workflow into your environment.</description>
+    </item>
+    
+    <item>
+      <title>Contrast Security</title>
+      <link>https://awsworkshop.io/card/contrastsecurity/</link>
+      <pubDate>Mon, 24 Feb 2020 22:05:01 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/contrastsecurity/</guid>
+      <description>In this workshop you will learn how Contrast technology platform is a fundamentally new way to protect a company from threats, giving our customers visibility and accuracy into their applications.</description>
+    </item>
+    
+    <item>
+      <title>Observability with Amazon EKS and Pixie by New Relic One</title>
+      <link>https://awsworkshop.io/card/newrelic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awsworkshop.io/card/newrelic/</guid>
+      <description>In this workshop, you will learn how to add Observability and toubleshoot issues in AMazon EKS Cluster using Pixie by New Relic One.</description>
+    </item>
+    
+  </channel>
+</rss>

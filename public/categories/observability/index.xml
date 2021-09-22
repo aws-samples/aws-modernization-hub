@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observability on Modernization workshop</title>
+    <link>https://awsworkshop.io/categories/observability/</link>
+    <description>Recent content in Observability on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jun 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/categories/observability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Modernization with Aqua</title>
+      <link>https://awsworkshop.io/card/aqua/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/aqua/</guid>
+      <description>In this workshop you will learn how to secure your workloads on Amazon EKS using Aqua&amp;rsquo;s comprehensive DevSecOps platform and tooling</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Tigera</title>
+      <link>https://awsworkshop.io/card/tigera/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/tigera/</guid>
+      <description>In this workshop you will learn how to design, deploy, and observe security and networking policies in an EKS environment using Calico</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Datadog</title>
+      <link>https://awsworkshop.io/card/datadog/</link>
+      <pubDate>Tue, 08 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/datadog/</guid>
+      <description>In this workshop we are going to look at moving an application from EC2 instances to Kubernetes. Then we will transition the app from the current environment to Kubernetes. From there we will look at what is required to monitor the application to ensure it is performing well.</description>
+    </item>
+    
+    <item>
+      <title>Debug serverless applications with Lumigo</title>
+      <link>https://awsworkshop.io/card/lumigo/</link>
+      <pubDate>Wed, 10 Mar 2021 15:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/lumigo/</guid>
+      <description>In this workshop, you’ll learn how to gain observability into your serverless application.</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Cisco Appdynamics</title>
+      <link>https://awsworkshop.io/card/appd-modernization/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://awsworkshop.io/card/appd-modernization/</guid>
+      <description>Learn how Appdynamics Observability can help you apply modernization strategies that keep your digital-first organization moving at speed, ensure operational optimization, avoid unnecessary risks, and maximize your innovation</description>
+    </item>
+    
+    <item>
+      <title>One Observability Workshop</title>
+      <link>https://awsworkshop.io/card/observability_workshop/</link>
+      <pubDate>Wed, 14 Oct 2020 14:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/observability_workshop/</guid>
+      <description>This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.</description>
+    </item>
+    
+    <item>
+      <title>Advanced observability with Dynatrace</title>
+      <link>https://awsworkshop.io/card/dynatrace/</link>
+      <pubDate>Thu, 09 Jul 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/dynatrace/</guid>
+      <description>In this workshop, you’ll learn how to use advanced observability to define the right migration strategy for a low-risk, smooth transition to the cloud as well using AI to automatically detect if customers are impacted or disrupted by the migration process.</description>
+    </item>
+    
+    <item>
+      <title>Applied Observability for Modern Applications with Epsagon</title>
+      <link>https://awsworkshop.io/card/epsagon/</link>
+      <pubDate>Wed, 01 Jul 2020 17:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/epsagon/</guid>
+      <description>In this workshop, you’ll learn how to gain observability into your serverless application.</description>
+    </item>
+    
+    <item>
+      <title>New Relic One - Serverless</title>
+      <link>https://awsworkshop.io/card/newrelic-serverless/</link>
+      <pubDate>Mon, 27 Apr 2020 16:13:53 -0700</pubDate>
+      
+      <guid>https://awsworkshop.io/card/newrelic-serverless/</guid>
+      <description>Learn how to achieve application observability using New Relic One on AWS with serverless services such as AWS Lambda, Amazon DynamoDB, Amazon API Gateway, and other AWS services.</description>
+    </item>
+    
+    <item>
+      <title>Observability with Amazon EKS and Pixie by New Relic One</title>
+      <link>https://awsworkshop.io/card/newrelic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://awsworkshop.io/card/newrelic/</guid>
+      <description>In this workshop, you will learn how to add Observability and toubleshoot issues in AMazon EKS Cluster using Pixie by New Relic One.</description>
+    </item>
+    
+  </channel>
+</rss>

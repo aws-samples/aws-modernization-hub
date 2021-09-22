@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloudwatch on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/cloudwatch/</link>
+    <description>Recent content in Cloudwatch on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://awsworkshop.io/tags/cloudwatch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Modernization with Cisco Appdynamics</title>
+      <link>https://awsworkshop.io/card/appd-modernization/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://awsworkshop.io/card/appd-modernization/</guid>
+      <description>Learn how Appdynamics Observability can help you apply modernization strategies that keep your digital-first organization moving at speed, ensure operational optimization, avoid unnecessary risks, and maximize your innovation</description>
+    </item>
+    
+    <item>
+      <title>Build a modern architecture with GitLab, Hashicorp and Gremlin</title>
+      <link>https://awsworkshop.io/card/ghg_workshop/</link>
+      <pubDate>Wed, 21 Oct 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/ghg_workshop/</guid>
+      <description>In this workshop we will work with GitLab, Hashicorp and Gremlin to show how to detect single points of failure within a gitflow deployment.</description>
+    </item>
+    
+    <item>
+      <title>One Observability Workshop</title>
+      <link>https://awsworkshop.io/card/observability_workshop/</link>
+      <pubDate>Wed, 14 Oct 2020 14:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/observability_workshop/</guid>
+      <description>This workshop is aimed at providing an hands-on experience for you on the wide variety of toolsets AWS offers to setup monitoring and observability on your applications.</description>
+    </item>
+    
+    <item>
+      <title>Advanced observability with Dynatrace</title>
+      <link>https://awsworkshop.io/card/dynatrace/</link>
+      <pubDate>Thu, 09 Jul 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/dynatrace/</guid>
+      <description>In this workshop, you’ll learn how to use advanced observability to define the right migration strategy for a low-risk, smooth transition to the cloud as well using AI to automatically detect if customers are impacted or disrupted by the migration process.</description>
+    </item>
+    
+  </channel>
+</rss>

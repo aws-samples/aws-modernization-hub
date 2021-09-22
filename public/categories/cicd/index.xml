@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CICD on Modernization workshop</title>
+    <link>https://awsworkshop.io/categories/cicd/</link>
+    <description>Recent content in CICD on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/categories/cicd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scale Android tests with Genymotion</title>
+      <link>https://awsworkshop.io/card/genymotion/</link>
+      <pubDate>Sun, 12 Sep 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/genymotion/</guid>
+      <description>In this workshop, you will learn how to improve your Android testing infrastructure and scale up and down your tests with Genymotion Android virtual devices</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Armory</title>
+      <link>https://awsworkshop.io/card/armory/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/armory/</guid>
+      <description>In this workshop you will learn how to use Armory to provision an EKS Cluster and configure different deployment types as well as how to scale and rollback deployments.</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with CircleCI</title>
+      <link>https://awsworkshop.io/card/circleci/</link>
+      <pubDate>Thu, 10 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/circleci/</guid>
+      <description>In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with CircleCI to release features and functionality at a faster pace.</description>
+    </item>
+    
+    <item>
+      <title>AWS Modernization Workshop with Harness</title>
+      <link>https://awsworkshop.io/card/harness/</link>
+      <pubDate>Thu, 29 Apr 2021 13:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/harness/</guid>
+      <description>In this workshop, you will gain hands-on experience using Harness to deploy an application to AWS EKS. Harness is a self-service CI/CD platform that allows engineers and DevOps team to build, test, deploy, and verify software, on-demand. This is a hands-on workshop where you will learn how to leverage Harness for easier deployments of your application.</description>
+    </item>
+    
+    <item>
+      <title>DevOps Modernization with JFrog</title>
+      <link>https://awsworkshop.io/card/jfrog/</link>
+      <pubDate>Tue, 10 Nov 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/jfrog/</guid>
+      <description>In this workshop you will learn about the JFrog Platform and how to leverage Artifactory and JFrog Xray for managing your Software Development Lifecycle (SDLC) and bring DevOps to the cloud on AWS.</description>
+    </item>
+    
+    <item>
+      <title>Build a modern architecture with GitLab, Hashicorp and Gremlin</title>
+      <link>https://awsworkshop.io/card/ghg_workshop/</link>
+      <pubDate>Wed, 21 Oct 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/ghg_workshop/</guid>
+      <description>In this workshop we will work with GitLab, Hashicorp and Gremlin to show how to detect single points of failure within a gitflow deployment.</description>
+    </item>
+    
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>https://awsworkshop.io/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/snyk-atlassian/</guid>
+      <description>In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.</description>
+    </item>
+    
+    <item>
+      <title>CI/CD with CloudBees</title>
+      <link>https://awsworkshop.io/card/cloudbees/</link>
+      <pubDate>Thu, 30 Jul 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/cloudbees/</guid>
+      <description>In this workshop we will learn some best practices around CI/CD that will allow you to rapidly deliver features that will help differentiate your business and reduce time-to-market.</description>
+    </item>
+    
+  </channel>
+</rss>

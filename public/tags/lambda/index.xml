@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lambda on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/lambda/</link>
+    <description>Recent content in Lambda on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Sep 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/lambda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Data in Motion applications with Confluent</title>
+      <link>https://awsworkshop.io/card/confluent/</link>
+      <pubDate>Thu, 09 Sep 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/confluent/</guid>
+      <description>In this workshop you will learn how to use fully-managed Confluent Cloud on AWS to source historical data into Kafka, accept streaming credit applications in real time and use ksqlDB to process data together and generate request outcome.</description>
+    </item>
+    
+    <item>
+      <title>Serverless ASP.NET Framework Modernization Workshop with Stackery</title>
+      <link>https://awsworkshop.io/card/stackery/</link>
+      <pubDate>Tue, 20 Apr 2021 15:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/stackery/</guid>
+      <description>This is a workshop to demonstrate how to modernize an ASP.NET REST API service, which runs on expensive, inflexible Windows servers in the cloud, into a resilient, highly scalable serverless service. The approach utilizes the Strangler Fig Pattern to modernize the application piece-by-piece rather than rewrite the entire application all at once.</description>
+    </item>
+    
+    <item>
+      <title>Debug serverless applications with Lumigo</title>
+      <link>https://awsworkshop.io/card/lumigo/</link>
+      <pubDate>Wed, 10 Mar 2021 15:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/lumigo/</guid>
+      <description>In this workshop, you’ll learn how to gain observability into your serverless application.</description>
+    </item>
+    
+    <item>
+      <title>Serverless Observability with AppDynamics</title>
+      <link>https://awsworkshop.io/card/appd-serverless/</link>
+      <pubDate>Wed, 09 Dec 2020 08:00:00 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/appd-serverless/</guid>
+      <description>Gain hands-on experience using AppDynamics, an AWS advanced technology ISV Partner, to add observability and monitoring to the serverless components of a microservices-based application.</description>
+    </item>
+    
+    <item>
+      <title>Applied Observability for Modern Applications with Epsagon</title>
+      <link>https://awsworkshop.io/card/epsagon/</link>
+      <pubDate>Wed, 01 Jul 2020 17:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/epsagon/</guid>
+      <description>In this workshop, you’ll learn how to gain observability into your serverless application.</description>
+    </item>
+    
+    <item>
+      <title>New Relic One - Serverless</title>
+      <link>https://awsworkshop.io/card/newrelic-serverless/</link>
+      <pubDate>Mon, 27 Apr 2020 16:13:53 -0700</pubDate>
+      
+      <guid>https://awsworkshop.io/card/newrelic-serverless/</guid>
+      <description>Learn how to achieve application observability using New Relic One on AWS with serverless services such as AWS Lambda, Amazon DynamoDB, Amazon API Gateway, and other AWS services.</description>
+    </item>
+    
+  </channel>
+</rss>

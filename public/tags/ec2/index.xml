@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EC2 on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/ec2/</link>
+    <description>Recent content in EC2 on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/ec2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Modernization Workshop with Dremio</title>
+      <link>https://awsworkshop.io/card/dremio/</link>
+      <pubDate>Wed, 15 Sep 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/dremio/</guid>
+      <description>In this workshop, you will learn how Dremio, the cloud data lake service, empowers users to run live, fast, and interactive queries directly against billions of rows of data in their own data lake storage. Gain a hands-on introduction to Dremio through deployment and exploration of Dremio’s user interface and features</description>
+    </item>
+    
+    <item>
+      <title>Scale Android tests with Genymotion</title>
+      <link>https://awsworkshop.io/card/genymotion/</link>
+      <pubDate>Sun, 12 Sep 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/genymotion/</guid>
+      <description>In this workshop, you will learn how to improve your Android testing infrastructure and scale up and down your tests with Genymotion Android virtual devices</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Datadog</title>
+      <link>https://awsworkshop.io/card/datadog/</link>
+      <pubDate>Tue, 08 Jun 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/datadog/</guid>
+      <description>In this workshop we are going to look at moving an application from EC2 instances to Kubernetes. Then we will transition the app from the current environment to Kubernetes. From there we will look at what is required to monitor the application to ensure it is performing well.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Automation at Scale with Quali</title>
+      <link>https://awsworkshop.io/card/quali/</link>
+      <pubDate>Tue, 22 Dec 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/quali/</guid>
+      <description>Gain hands-on experience with Quali, an AWS advanced technology ISV partner, to automatically deploy and release an e-commerce application as part of your DevOps practice.</description>
+    </item>
+    
+  </channel>
+</rss>

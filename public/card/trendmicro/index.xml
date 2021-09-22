@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Securing AWS Infrastructure with Trend Micro on Modernization workshop</title>
+    <link>https://awsworkshop.io/card/trendmicro/</link>
+    <description>Recent content in Securing AWS Infrastructure with Trend Micro on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jul 2021 00:15:00 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/card/trendmicro/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

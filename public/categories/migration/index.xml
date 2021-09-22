@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migration on Modernization workshop</title>
+    <link>https://awsworkshop.io/categories/migration/</link>
+    <description>Recent content in Migration on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Apr 2021 15:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/categories/migration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serverless ASP.NET Framework Modernization Workshop with Stackery</title>
+      <link>https://awsworkshop.io/card/stackery/</link>
+      <pubDate>Tue, 20 Apr 2021 15:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/stackery/</guid>
+      <description>This is a workshop to demonstrate how to modernize an ASP.NET REST API service, which runs on expensive, inflexible Windows servers in the cloud, into a resilient, highly scalable serverless service. The approach utilizes the Strangler Fig Pattern to modernize the application piece-by-piece rather than rewrite the entire application all at once.</description>
+    </item>
+    
+    <item>
+      <title>Application modernization with AWS and Docker</title>
+      <link>https://awsworkshop.io/card/docker-workshop/</link>
+      <pubDate>Mon, 29 Mar 2021 10:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/docker-workshop/</guid>
+      <description>In this hands on session, we will take a sample two tier application and use Docker Compose to power up local development on AWS Elastic Container Service (ECS) and then to deploy to AWS Cloud, all with a consistent developer experience using Docker Compose CLI. During the session, we will uncover how to embed your existing services in the compose file and simulate a real world scenario by fine tuning your AWS Cloudformation templates using docker compose overlays and finally orchestrate continuous deployment.</description>
+    </item>
+    
+    <item>
+      <title>Application Modernization with Cisco Appdynamics</title>
+      <link>https://awsworkshop.io/card/appd-modernization/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://awsworkshop.io/card/appd-modernization/</guid>
+      <description>Learn how Appdynamics Observability can help you apply modernization strategies that keep your digital-first organization moving at speed, ensure operational optimization, avoid unnecessary risks, and maximize your innovation</description>
+    </item>
+    
+    <item>
+      <title>Advanced observability with Dynatrace</title>
+      <link>https://awsworkshop.io/card/dynatrace/</link>
+      <pubDate>Thu, 09 Jul 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/dynatrace/</guid>
+      <description>In this workshop, you’ll learn how to use advanced observability to define the right migration strategy for a low-risk, smooth transition to the cloud as well using AI to automatically detect if customers are impacted or disrupted by the migration process.</description>
+    </item>
+    
+  </channel>
+</rss>

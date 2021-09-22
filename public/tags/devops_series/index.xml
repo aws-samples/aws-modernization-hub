@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps_Series on Modernization workshop</title>
+    <link>https://awsworkshop.io/tags/devops_series/</link>
+    <description>Recent content in DevOps_Series on Modernization workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 08:10:07 -0800</lastBuildDate><atom:link href="https://awsworkshop.io/tags/devops_series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Powered Functional Test Automation with Micro Focus UFT One</title>
+      <link>https://awsworkshop.io/card/microfocus/</link>
+      <pubDate>Sun, 12 Sep 2021 08:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/microfocus/</guid>
+      <description>This workshop will show you how to use UFT One to design an AI-based functional test of a web application, run the test, and understand the details of each step executed during the test run.</description>
+    </item>
+    
+    <item>
+      <title>Chaos Engineering with Gremlin</title>
+      <link>https://awsworkshop.io/card/gremlin/</link>
+      <pubDate>Wed, 09 Sep 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/gremlin/</guid>
+      <description>In this workshop, you will get a hands-on introduction to Chaos Engineering by assuming the role of Mystical Mysfit’s newest site reliability engineer.</description>
+    </item>
+    
+    <item>
+      <title>Modern Infrastructure as Code with Pulumi</title>
+      <link>https://awsworkshop.io/card/pulumi/</link>
+      <pubDate>Sun, 16 Aug 2020 17:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/pulumi/</guid>
+      <description>This workshop teaches you “Modern” Infrastructure as Code (IaC) concepts through a series of hands-on labs, using Pulumi.</description>
+    </item>
+    
+    <item>
+      <title>Test Automation with Cognizant</title>
+      <link>https://awsworkshop.io/card/cognizant/</link>
+      <pubDate>Sun, 09 Aug 2020 14:46:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/cognizant/</guid>
+      <description>In this workshop, you will learn from Cognizant how to continuously test an application along different portions of the DevOps CI/CD lifecycle.</description>
+    </item>
+    
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>https://awsworkshop.io/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/snyk-atlassian/</guid>
+      <description>In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.</description>
+    </item>
+    
+    <item>
+      <title>CI/CD with CloudBees</title>
+      <link>https://awsworkshop.io/card/cloudbees/</link>
+      <pubDate>Thu, 30 Jul 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/cloudbees/</guid>
+      <description>In this workshop we will learn some best practices around CI/CD that will allow you to rapidly deliver features that will help differentiate your business and reduce time-to-market.</description>
+    </item>
+    
+    <item>
+      <title>Cprime Collaborating with Jira</title>
+      <link>https://awsworkshop.io/card/cprime/</link>
+      <pubDate>Wed, 29 Jul 2020 20:10:07 -0800</pubDate>
+      
+      <guid>https://awsworkshop.io/card/cprime/</guid>
+      <description>In this workshop, you will learn from Cprime how to use Jira for effective planning and collaboration.</description>
+    </item>
+    
+  </channel>
+</rss>
