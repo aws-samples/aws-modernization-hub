@@ -11,7 +11,7 @@ description: In this lab you will learn to work through a realistic scenario and
 categories: [Data, Access Control, Governance]
 
 # tags are the technologies covered in the workshop
-tags: [Amazon Redshift, S3]
+tags: [Amazon Redshift, Amazon S3]
 
 # Full URL to the workshop
 workshop_url: https://immuta.awsworkshop.io
