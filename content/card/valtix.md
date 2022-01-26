@@ -17,4 +17,4 @@ tags: [EC2, VPC]
 # Full URL to the workshop
 workshop_url: https://valtix.awsworkshop.io/
 ---
-In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with CircleCI to release features and functionality at a faster pace.
+In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with Valtix to release features and functionality at a faster pace.
