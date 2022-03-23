@@ -1,5 +1,5 @@
 ---
-title: Query Live Data with rockset
+title: Build Real-time Dashboards with Rockset, DynamoDB, and Grafana
 level: 300
 duration: 2 hours
 date: 2022-03-23T08:10:07-08:00
