@@ -11,7 +11,7 @@ description: In this workshop, you will learn how rockset, empowers analysts and
 categories: [Data, Analytics, LiveData]
 
 # tags are the technologies covered in the workshop
-tags: [S3, EC2]
+tags: [S3, DynamoDB,Grafana,EC2]
 
 # Full URL to the workshop
 workshop_url: https://rockset.awsworkshop.io
