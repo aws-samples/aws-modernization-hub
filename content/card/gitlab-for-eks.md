@@ -1,5 +1,5 @@
 ---
-title: GitLab EKS Integration and for Traditional Push and GitOps Pull Deployments
+title: Ultimate GitOps - Deploy Secure Microservices to AWS EKS with the GitLab Agent
 level: 300
 duration: 2 Hours
 date: 2021-10-05T00:30:00-07:00
