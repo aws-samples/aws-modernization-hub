@@ -9,10 +9,10 @@ description: In this workshop you will learn why DevOps and DevSecOps teams are 
 
 
 # categories is the overall themes covered. 
-categories: [Security, Financial Services, Payments, PCI Compliance]
+ategories: [Security, DevOps]
 
 # tags are the technologies covered in the workshop
-tags: [VGS, VPC, RDS]
+ags: [EC2, VPC]
 
 # Full URL to the workshop
 workshop_url: https://vgs.awsworkshop.io/
