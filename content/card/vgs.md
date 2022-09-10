@@ -8,10 +8,10 @@ logo: /images/AWS_Logo.png
 description: In this workshop you will learn why DevOps and DevSecOps teams are turning to Data Security as a Service (DSaaS) providers, like Very Good Security (VGS), to secure sensitive data, streamline their workflows, and descope sensitive data from their tech stack to accelerate their journey to information security compliances like PCI DSS, SOC 2, GDPR, and more. 
 
 # categories is the overall themes covered. 
-ategories: [Security, DevOps]
+categories: [Security, DevOps]
 
 # tags are the technologies covered in the workshop
-ags: [EC2, VPC]
+tags: [EC2, VPC]
 
 # Full URL to the workshop
 workshop_url: https://vgs.awsworkshop.io/
