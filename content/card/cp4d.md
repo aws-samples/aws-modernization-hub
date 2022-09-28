@@ -10,7 +10,7 @@ description: IBM Cloud Pak for Data (CP4D) on AWS Modernization Workshop provide
 categories: [AI/ML, Analytics, Containers]
 
 # tags are the technologies covered in the workshop
-tags: [EKS, EFS, EBS, Redshift, Aurora, S3, IBM, Cloud Pak for Data, OpenShift]
+tags: [EKS, EFS, EBS, Redshift, Aurora, S3]
 
 # Full URL to the workshop
 workshop_url: https://ibm-cp4d.awsworkshop.io/
