@@ -1,8 +1,8 @@
 ---
-title: {{ replace .Name "-" " " | Network Security with Checkpoint CloudGuard Firewalls and AWS Gateway Load Balancer}}
+title: Network Security with Checkpoint CloudGuard Firewalls and AWS Gateway Load Balancer
 level: 300
 duration: 3 hour
-date: {{ .Date }}
+date: 2022-17-11T11:00:07-08:00
 image: /images/AWS_workshop_3.png
 description: This lab will guide you through a step-by-step process of building a secure enterprise topology protected by Checkpoint CloudGuard and AWS Gateway Load Balancer (GWLB)
 
