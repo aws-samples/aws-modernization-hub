@@ -13,5 +13,5 @@ categories: [modernization, discovery, assessment, Containers, serverless, DevOp
 tags: [EC2]
  
 # Full URL to the workshop
-workshop_url: https://cast-highlight.awsworkshop.io/
+workshop_url: https://cast-software.awsworkshop.io/
 ---
