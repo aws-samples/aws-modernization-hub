@@ -1,8 +1,8 @@
 ---
-title: {{ DevSecOps Protection with Trend Micro - Cloud One}}
+title: DevSecOps Protection with Trend Micro - Cloud One
 level: 300
 duration: 5 hour
-date: {{ .Date }}
+date: 2023-01-30T00:10:00-08:00
 image: /images/AWS_workshop_3.png
 description: In this workshop, you’ll learn how to leverage the Cloud One Platform to enforce the detection and protection in Applications, Elastic Kubernetes Service, Open-Source Projects and your IaC Templates!
 
