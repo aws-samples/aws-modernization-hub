@@ -10,7 +10,7 @@ description: In this workshop, you’ll learn how to leverage the Cloud One Plat
 categories: [DevSecOps]
 
 # tags are the technologies covered in the workshop
-tags: [ EKS, ECR, EC2, VPC, CodePipeline, CodeCommit, CodeBuild]
+tags: [EKS, ECR, EC2, VPC, CodePipeline, CodeCommit, CodeBuild]
 
 # Full URL to the workshop
 workshop_url: https://trendmicro-devsecops.awsworkshop.io/
