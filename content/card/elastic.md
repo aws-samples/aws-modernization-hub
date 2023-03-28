@@ -10,7 +10,7 @@ description: Using ElasticSearch service in AWS
 categories: [DevOps, Observability, Serverless]
 
 # tags are the technologies covered in the workshop
-tags: [EC2, Lambda, Elasticsearch, DynamoDB, CloudWatch, CloudFormation]
+tags: [EC2, Lambda, DynamoDB, CloudWatch, CloudFormation]
 
 # Full URL to the workshop
 workshop_url: https://elastic.awsworkshop.io/
