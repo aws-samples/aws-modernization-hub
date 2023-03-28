@@ -2,7 +2,7 @@
 title: Capture the bug using Elasticsearch Service on AWS
 level: 300
 duration: 1-2 hour
-date: 2023-03-28T:10:00-08:00
+date: 2023-03-28T00:10:00-08:00
 image: /images/AWS_workshop_4.png
 description: Using ElasticSearch service in AWS
 
