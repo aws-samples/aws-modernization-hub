@@ -7,7 +7,7 @@ image: /images/AWS_workshop_4.png
 description: Using ElasticSearch service in AWS
 
 # categories is the overall themes covered.
-categories: [DevOps, Observability, Serverless]
+categories: [DevOps, Serverless]
 
 # tags are the technologies covered in the workshop
 tags: [EC2, Lambda, DynamoDB, CloudWatch, CloudFormation]
