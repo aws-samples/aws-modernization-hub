@@ -7,10 +7,10 @@ image: /images/AWS_workshop_3.png
 description: describe the workshop here
 
 # categories is the overall themes covered. 
-categories: [Media, Entertainment]
+categories: [Security, Media, Entertainment]
 
 # tags are the technologies covered in the workshop
-tags: [S3, Lambda, Serverless, Security, Media, Entertainment]
+tags: [S3, Lambda,]
 
 # Full URL to the workshop
 workshop_url: https://trendmicro-aspera.awsworkshop.io/
