@@ -2,7 +2,7 @@
 title: Modernize Applications to AWS Architectures with CAST Imaging
 level: 300
 duration: 2 hour
-date: {{ .Date }}
+date: 2023-05-31 23:30:00 -0800
 image: /images/AWS_workshop_3.png
 description: This workshop describes the use of [CAST Imaging](https://www.castsoftware.com/imaging) for deep analysis of an application ready to modernize.
 
