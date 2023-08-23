@@ -16,5 +16,4 @@ tags: [EKS]
 # Full URL to the workshop
 workshop_url: https://container-security-snyk.awsworkshop.io/
 ---
-
 In this workshop you will learn how to scan containerized applications on Amazon EKS with Snyk. We will learn about Open Source vulnerabilities introduced by your Container Base Image and your application dependencies.
