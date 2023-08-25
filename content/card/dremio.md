@@ -7,7 +7,7 @@ image: /images/AWS_workshop_1.png
 logo: /images/AWS_Logo.png
 description: An introduction to the using Dremio for Querying S3 data and visualizing it
 
-# categories is the overall themes covered. 
+#  categories is the overall themes covered. 
 categories: [Data, Analytics, DataLake]
 
 # tags are the technologies covered in the workshop
