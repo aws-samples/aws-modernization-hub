@@ -7,7 +7,7 @@ image: /images/AWS_workshop_1.png
 logo: /images/AWS_Logo.png
 description: An introduction to the using  Momento showcasing the capabilities from the cache, topics, and auth services they provide. 
 
-#  categories is the overall themes covered. 
+# # categories is the overall themes covered. 
 categories: [Caching,EDA, Serverless]
 
 # tags are the technologies covered in the workshop
