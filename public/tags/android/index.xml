@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Modernization workshop</title>
+    <link>http://localhost:1313/tags/android/</link>
+    <description>Recent content in Android on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 08:10:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scale Android tests with Genymotion</title>
+      <link>http://localhost:1313/card/genymotion/</link>
+      <pubDate>Sun, 12 Sep 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/genymotion/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to improve your Android testing infrastructure and scale up and down your tests with Genymotion Android virtual devices&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataSync on Modernization workshop</title>
+    <link>http://localhost:1313/tags/datasync/</link>
+    <description>Recent content in DataSync on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jul 2022 00:10:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/datasync/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Securing your Data Migration to AWS S3 with Trend Micro Cloud One</title>
+      <link>http://localhost:1313/card/trendmicro-cloudone-datamigr/</link>
+      <pubDate>Fri, 15 Jul 2022 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-cloudone-datamigr/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to migrate your objects from a on-premise Network File Server (NFS) using AWS DataSync to AWS S3 in your AWS account securing the files with Trend Micro Cloud One File Storage Security.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

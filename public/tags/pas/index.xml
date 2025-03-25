@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PAS on Modernization workshop</title>
+    <link>http://localhost:1313/tags/pas/</link>
+    <description>Recent content in PAS on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Mar 2020 18:40:47 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PCF on AWS</title>
+      <link>http://localhost:1313/card/pivotal/</link>
+      <pubDate>Fri, 27 Mar 2020 18:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/pivotal/</guid>
+      <description>&lt;p&gt;In this workshop, you will Pivotal Cloud Foundry on AWS, deploying application workloads, deploying and using integrations such as the AWS Service Broker for modernizaing applications with native AWS services.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

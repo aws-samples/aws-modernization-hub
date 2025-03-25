@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CodePipeline on Modernization workshop</title>
+    <link>http://localhost:1313/tags/codepipeline/</link>
+    <description>Recent content in CodePipeline on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Aug 2023 20:10:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/codepipeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serverless SaaS Workshop with Fauna</title>
+      <link>http://localhost:1313/card/fauna/</link>
+      <pubDate>Wed, 30 Aug 2023 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/fauna/</guid>
+      <description>&lt;p&gt;In this workshop you will be building a multi-tenant Software-as-a-Service (SaaS) solution using Fauna and AWS Serverless Services, specifically Amazon API Gateway, Amazon Cognito, AWS Lambda, AWS CodePipeline, and Amazon CloudWatch. The goal is to provide an understanding of serverless architecture as it apples to multi-tenancy, and introduce Fauna features/functionality that make them seamless to implement&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecOps Protection with Trend Micro - Cloud One</title>
+      <link>http://localhost:1313/card/trendmicro-devsecops/</link>
+      <pubDate>Mon, 30 Jan 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-devsecops/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn how to leverage the Cloud One Platform to enforce the detection and protection in Applications, Elastic Kubernetes Service, Open-Source Projects and your IaC Templates!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Account and Workload Security with Lacework</title>
+      <link>http://localhost:1313/card/lacework/</link>
+      <pubDate>Thu, 20 Jan 2022 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/lacework/</guid>
+      <description>&lt;p&gt;Learn about securing the software delivery process, implementing security operation workflows on AWS, and managing security across accounts with Lacework Cloud Security Platform.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Securing AWS Infrastructure with Trend Micro</title>
+      <link>http://localhost:1313/card/trendmicro/</link>
+      <pubDate>Wed, 14 Jul 2021 00:15:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn how to leverage infrastructure as code (IaC) and Security to automate your cloud security efforts. If you’re interested in making cloud security more efficient, automated, proactive, and accessible to developers, cloud architects, DevOps engineers this workshop is for you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application modernization with AWS and Docker</title>
+      <link>http://localhost:1313/card/docker-workshop/</link>
+      <pubDate>Mon, 29 Mar 2021 10:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/docker-workshop/</guid>
+      <description>&lt;p&gt;In this hands on session, we will take a sample two tier application and use Docker Compose to power up local development on AWS Elastic Container Service (ECS) and then to deploy to AWS Cloud, all with a consistent developer experience using Docker Compose CLI. During the session, we will uncover how to embed your existing services in the compose file and simulate a real world scenario by fine tuning your AWS Cloudformation templates using docker compose overlays and finally orchestrate continuous deployment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

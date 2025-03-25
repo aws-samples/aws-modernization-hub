@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS Control Tower on Modernization workshop</title>
+    <link>http://localhost:1313/tags/aws-control-tower/</link>
+    <description>Recent content in AWS Control Tower on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Sep 2021 07:40:47 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aws-control-tower/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS environments with superwerker</title>
+      <link>http://localhost:1313/card/superwerker/</link>
+      <pubDate>Sun, 12 Sep 2021 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/superwerker/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to navigate in a multi-account AWS environment set up with superwerker. Companies of all sizes can benefit from deploying with superwerker. Start-ups and small-to-medium businesses can especially benefit when time-to-market and financial aspects are concerns. Regardless of company size, superwerker lets you run your business without spending excess time setting up and maintaining your AWS Cloud environment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

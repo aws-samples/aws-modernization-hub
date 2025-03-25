@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CICD on Modernization workshop</title>
+    <link>http://localhost:1313/categories/cicd/</link>
+    <description>Recent content in CICD on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Oct 2021 11:00:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/cicd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Modernization Workshop With GitOps and Codefresh</title>
+      <link>http://localhost:1313/card/codefresh/</link>
+      <pubDate>Tue, 12 Oct 2021 11:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/codefresh/</guid>
+      <description>&lt;p&gt;In this workshop you will learn about GitOps deployments in a cloud environment and more specifically on Amazon Elastic Kubernetes service.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gitlab DevOps Modernization Workshop</title>
+      <link>http://localhost:1313/card/gitlab-cicd/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/gitlab-cicd/</guid>
+      <description>&lt;p&gt;In this workshop you will learn about the GitLab DevOps platform and how to build, test, and deploy features and functionality at a faster pace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ultimate GitOps - Deploy Secure Microservices to AWS EKS with the GitLab Agent</title>
+      <link>http://localhost:1313/card/gitlab-for-eks/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/gitlab-for-eks/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn to use the new GitLab Agent for Kubernetes to integrate with EKS more securely and to add GitOps pull deployments. Add GitLab’s mature DevSecOps security scanning, automated review environment management and cluster scanning security to your latest GitOps projects. Learn how the new GitLab Agent cluster connection method improves the security posture for all existing EKS CD push integrations as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scale Android tests with Genymotion</title>
+      <link>http://localhost:1313/card/genymotion/</link>
+      <pubDate>Sun, 12 Sep 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/genymotion/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to improve your Android testing infrastructure and scale up and down your tests with Genymotion Android virtual devices&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Armory</title>
+      <link>http://localhost:1313/card/armory/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/armory/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to use Armory to provision an EKS Cluster and configure different deployment types as well as how to scale and rollback deployments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with CircleCI</title>
+      <link>http://localhost:1313/card/circleci/</link>
+      <pubDate>Thu, 10 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/circleci/</guid>
+      <description>&lt;p&gt;In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with CircleCI to release features and functionality at a faster pace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS Modernization Workshop with Harness</title>
+      <link>http://localhost:1313/card/harness/</link>
+      <pubDate>Thu, 29 Apr 2021 13:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/harness/</guid>
+      <description>&lt;p&gt;In this workshop, you will gain hands-on experience using Harness to deploy an application to AWS EKS. Harness is a self-service CI/CD platform that allows engineers and DevOps team to build, test, deploy, and verify software, on-demand. This is a hands-on workshop where you will learn how to leverage Harness for easier deployments of your application.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevOps Modernization with JFrog</title>
+      <link>http://localhost:1313/card/jfrog/</link>
+      <pubDate>Tue, 10 Nov 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/jfrog/</guid>
+      <description>&lt;p&gt;In this workshop you will learn about the JFrog Platform and how to leverage Artifactory and JFrog Xray for managing your Software Development Lifecycle (SDLC) and bring DevOps to the cloud on AWS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build a modern architecture with GitLab, Hashicorp and Gremlin</title>
+      <link>http://localhost:1313/card/ghg_workshop/</link>
+      <pubDate>Wed, 21 Oct 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/ghg_workshop/</guid>
+      <description>&lt;p&gt;In this workshop we will work with GitLab, Hashicorp and Gremlin to show how to detect single points of failure within a gitflow deployment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>http://localhost:1313/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/snyk-atlassian/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CI/CD with CloudBees</title>
+      <link>http://localhost:1313/card/cloudbees/</link>
+      <pubDate>Thu, 30 Jul 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/cloudbees/</guid>
+      <description>&lt;p&gt;In this workshop we will learn some best practices around CI/CD that will allow you to rapidly deliver features that will help differentiate your business and reduce time-to-market.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

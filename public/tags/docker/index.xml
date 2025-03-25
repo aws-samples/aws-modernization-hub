@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Modernization workshop</title>
+    <link>http://localhost:1313/tags/docker/</link>
+    <description>Recent content in Docker on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2021 00:30:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ultimate GitOps - Deploy Secure Microservices to AWS EKS with the GitLab Agent</title>
+      <link>http://localhost:1313/card/gitlab-for-eks/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/gitlab-for-eks/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn to use the new GitLab Agent for Kubernetes to integrate with EKS more securely and to add GitOps pull deployments. Add GitLab’s mature DevSecOps security scanning, automated review environment management and cluster scanning security to your latest GitOps projects. Learn how the new GitLab Agent cluster connection method improves the security posture for all existing EKS CD push integrations as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application modernization with AWS and Docker</title>
+      <link>http://localhost:1313/card/docker-workshop/</link>
+      <pubDate>Mon, 29 Mar 2021 10:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/docker-workshop/</guid>
+      <description>&lt;p&gt;In this hands on session, we will take a sample two tier application and use Docker Compose to power up local development on AWS Elastic Container Service (ECS) and then to deploy to AWS Cloud, all with a consistent developer experience using Docker Compose CLI. During the session, we will uncover how to embed your existing services in the compose file and simulate a real world scenario by fine tuning your AWS Cloudformation templates using docker compose overlays and finally orchestrate continuous deployment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Cisco Appdynamics</title>
+      <link>http://localhost:1313/card/appd-modernization/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/appd-modernization/</guid>
+      <description>&lt;p&gt;Learn how Appdynamics Observability can help you apply modernization strategies that keep your digital-first organization moving at speed, ensure operational optimization, avoid unnecessary risks, and maximize your innovation&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

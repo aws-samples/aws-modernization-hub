@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networking on Modernization workshop</title>
+    <link>http://localhost:1313/categories/networking/</link>
+    <description>Recent content in Networking on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Feb 2024 08:10:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing Enterprise Service Mesh on AWS EKS Using Solo.io&#39;s Gloo Platform</title>
+      <link>http://localhost:1313/card/solo-io/</link>
+      <pubDate>Fri, 16 Feb 2024 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/solo-io/</guid>
+      <description>&lt;p&gt;In this workshop, customers will deploy Gloo Platform on a single EKS cluster and a subset of its features including topics like API key authentication, zero trust security, traffic policies and the Gloo dashboard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrating Check Point CloudGuard Network Security and AWS Gateway Load Balancer</title>
+      <link>http://localhost:1313/card/checkpoint/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/checkpoint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Intro to AWS App Mesh</title>
+      <link>http://localhost:1313/card/appmesh/</link>
+      <pubDate>Wed, 10 Jun 2020 17:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/appmesh/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn about the features and usage of AWS App Mesh.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

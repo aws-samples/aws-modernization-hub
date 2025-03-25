@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDA on Modernization workshop</title>
+    <link>http://localhost:1313/categories/eda/</link>
+    <description>Recent content in EDA on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2023 08:10:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/eda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Application Modernization with Momento</title>
+      <link>http://localhost:1313/card/momentohq/</link>
+      <pubDate>Sun, 27 Aug 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/momentohq/</guid>
+      <description>&lt;p&gt;In this workshop, learn the simplicity of enhancing DynamoDB performance through caching and activating real-time notifications with Momento Cache and Topics. Dive into these lessons by updating an online pizza shop&amp;rsquo;s order processing system.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

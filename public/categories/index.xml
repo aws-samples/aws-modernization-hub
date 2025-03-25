@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Modernization workshop</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Containers</title>
+      <link>http://localhost:1313/categories/containers/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/containers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative AI</title>
+      <link>http://localhost:1313/categories/generative-ai/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/generative-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/categories/machine-learning/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/categories/devops/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/categories/security/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Energy Data Insights</title>
+      <link>http://localhost:1313/categories/energy-data-insights/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/energy-data-insights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cost Optimization</title>
+      <link>http://localhost:1313/categories/cost-optimization/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cost-optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mesh</title>
+      <link>http://localhost:1313/categories/mesh/</link>
+      <pubDate>Fri, 16 Feb 2024 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/mesh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Networking</title>
+      <link>http://localhost:1313/categories/networking/</link>
+      <pubDate>Fri, 16 Feb 2024 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observabilty</title>
+      <link>http://localhost:1313/categories/observabilty/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/observabilty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saas</title>
+      <link>http://localhost:1313/categories/saas/</link>
+      <pubDate>Wed, 30 Aug 2023 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/saas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Serverless</title>
+      <link>http://localhost:1313/categories/serverless/</link>
+      <pubDate>Wed, 30 Aug 2023 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/serverless/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caching</title>
+      <link>http://localhost:1313/categories/caching/</link>
+      <pubDate>Sun, 27 Aug 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/caching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>EDA</title>
+      <link>http://localhost:1313/categories/eda/</link>
+      <pubDate>Sun, 27 Aug 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/eda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assessment</title>
+      <link>http://localhost:1313/categories/assessment/</link>
+      <pubDate>Wed, 31 May 2023 23:30:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/assessment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discovery</title>
+      <link>http://localhost:1313/categories/discovery/</link>
+      <pubDate>Wed, 31 May 2023 23:30:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/discovery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modernization</title>
+      <link>http://localhost:1313/categories/modernization/</link>
+      <pubDate>Wed, 31 May 2023 23:30:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/modernization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Management</title>
+      <link>http://localhost:1313/categories/management/</link>
+      <pubDate>Tue, 09 May 2023 10:15:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entertainment</title>
+      <link>http://localhost:1313/categories/entertainment/</link>
+      <pubDate>Mon, 20 Mar 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/entertainment/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Media</title>
+      <link>http://localhost:1313/categories/media/</link>
+      <pubDate>Mon, 20 Mar 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevSecOps</title>
+      <link>http://localhost:1313/categories/devsecops/</link>
+      <pubDate>Mon, 30 Jan 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/devsecops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observability</title>
+      <link>http://localhost:1313/categories/observability/</link>
+      <pubDate>Mon, 09 Jan 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/observability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Securing Data Migrations</title>
+      <link>http://localhost:1313/categories/securing-data-migrations/</link>
+      <pubDate>Fri, 15 Jul 2022 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/securing-data-migrations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ransomware</title>
+      <link>http://localhost:1313/categories/ransomware/</link>
+      <pubDate>Wed, 08 Jun 2022 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/ransomware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analytics</title>
+      <link>http://localhost:1313/categories/analytics/</link>
+      <pubDate>Wed, 23 Mar 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data</title>
+      <link>http://localhost:1313/categories/data/</link>
+      <pubDate>Wed, 23 Mar 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LiveData</title>
+      <link>http://localhost:1313/categories/livedata/</link>
+      <pubDate>Wed, 23 Mar 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/livedata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network Security</title>
+      <link>http://localhost:1313/categories/network-security/</link>
+      <pubDate>Thu, 10 Mar 2022 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/categories/network-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IaC</title>
+      <link>http://localhost:1313/categories/iac/</link>
+      <pubDate>Thu, 20 Jan 2022 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/categories/iac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governance</title>
+      <link>http://localhost:1313/categories/governance/</link>
+      <pubDate>Wed, 19 Jan 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Log Analytics</title>
+      <link>http://localhost:1313/categories/log-analytics/</link>
+      <pubDate>Wed, 19 Jan 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/log-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/categories/testing/</link>
+      <pubDate>Mon, 25 Oct 2021 11:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Access Control</title>
+      <link>http://localhost:1313/categories/access-control/</link>
+      <pubDate>Sun, 24 Oct 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/access-control/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CICD</title>
+      <link>http://localhost:1313/categories/cicd/</link>
+      <pubDate>Tue, 12 Oct 2021 11:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/cicd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transformation</title>
+      <link>http://localhost:1313/categories/transformation/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/categories/transformation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amazon EKS</title>
+      <link>http://localhost:1313/categories/amazon-eks/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/amazon-eks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/categories/automation/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DataLake</title>
+      <link>http://localhost:1313/categories/datalake/</link>
+      <pubDate>Wed, 15 Sep 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/datalake/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>http://localhost:1313/categories/mobile/</link>
+      <pubDate>Sun, 12 Sep 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Account</title>
+      <link>http://localhost:1313/categories/multi-account/</link>
+      <pubDate>Sun, 12 Sep 2021 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/categories/multi-account/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organizations</title>
+      <link>http://localhost:1313/categories/organizations/</link>
+      <pubDate>Sun, 12 Sep 2021 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/categories/organizations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monitoring</title>
+      <link>http://localhost:1313/categories/monitoring/</link>
+      <pubDate>Tue, 08 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/monitoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Migration</title>
+      <link>http://localhost:1313/categories/migration/</link>
+      <pubDate>Tue, 20 Apr 2021 15:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/migration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud-Applications</title>
+      <link>http://localhost:1313/categories/cloud-applications/</link>
+      <pubDate>Wed, 23 Dec 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/cloud-applications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data-Management</title>
+      <link>http://localhost:1313/categories/data-management/</link>
+      <pubDate>Wed, 23 Dec 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/data-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Application-Automation</title>
+      <link>http://localhost:1313/categories/application-automation/</link>
+      <pubDate>Tue, 22 Dec 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/application-automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>http://localhost:1313/categories/coding/</link>
+      <pubDate>Tue, 10 Nov 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Collaboration</title>
+      <link>http://localhost:1313/categories/collaboration/</link>
+      <pubDate>Wed, 29 Jul 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/collaboration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>http://localhost:1313/categories/planning/</link>
+      <pubDate>Wed, 29 Jul 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Operations</title>
+      <link>http://localhost:1313/categories/operations/</link>
+      <pubDate>Thu, 09 Jul 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/categories/operations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Application Platforms</title>
+      <link>http://localhost:1313/categories/application-platforms/</link>
+      <pubDate>Fri, 27 Mar 2020 18:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/categories/application-platforms/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

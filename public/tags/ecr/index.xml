@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ECR on Modernization workshop</title>
+    <link>http://localhost:1313/tags/ecr/</link>
+    <description>Recent content in ECR on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2023 00:10:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ecr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DevSecOps Protection with Trend Micro - Cloud One</title>
+      <link>http://localhost:1313/card/trendmicro-devsecops/</link>
+      <pubDate>Mon, 30 Jan 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-devsecops/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn how to leverage the Cloud One Platform to enforce the detection and protection in Applications, Elastic Kubernetes Service, Open-Source Projects and your IaC Templates!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with CircleCI</title>
+      <link>http://localhost:1313/card/circleci/</link>
+      <pubDate>Thu, 10 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/circleci/</guid>
+      <description>&lt;p&gt;In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with CircleCI to release features and functionality at a faster pace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secure Devops with AWS &amp; Sysdig</title>
+      <link>http://localhost:1313/card/sysdig/</link>
+      <pubDate>Sun, 10 Jan 2021 18:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/sysdig/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to securely run cloud applications in production by automating AWS Fargate and ECR image scanning directly in your AWS environment. You will also learn how to improve the security of your cloud infrastructure using AWS CloudTrail and Sysdig CloudConnector.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>http://localhost:1313/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/snyk-atlassian/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

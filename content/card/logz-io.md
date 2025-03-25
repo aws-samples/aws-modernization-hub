@@ -2,7 +2,7 @@
 title: Logz.io Observability & Security for Teams that Love Open Source
 level: 300
 duration: 2 hours
-date: 2023-9-14T00:30:00-07:00
+date: 2023-09-14
 image: /images/AWS_workshop_1.png
 logo: /images/AWS_Logo.png
 description: 

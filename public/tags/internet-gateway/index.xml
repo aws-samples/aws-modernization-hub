@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet Gateway on Modernization workshop</title>
+    <link>http://localhost:1313/tags/internet-gateway/</link>
+    <description>Recent content in Internet Gateway on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Mar 2022 00:10:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/internet-gateway/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating an Extra Network Layer of Protection with Your AWS Services</title>
+      <link>http://localhost:1313/card/trendmicro-cloudone-net/</link>
+      <pubDate>Thu, 10 Mar 2022 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-cloudone-net/</guid>
+      <description>&lt;p&gt;Learn how to leverage Trend Micro Cloud One – Network Security to protect the connectivity from the internet to your applications running on Amazon EC2, ECS, AWS Fargate and others. Cloud workloads frequently require internet access, and as we know, anything accessing the internet can be breached. This workshop explores simple tactics on how to protect the internet connectivity to your AWS services and between VPCs. In this workshop, you will learn how to protect your cloud network and meet compliance requirements such as PCI, DSS and HIPAA to deploy Network IDS/IPS into your AWS environments.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

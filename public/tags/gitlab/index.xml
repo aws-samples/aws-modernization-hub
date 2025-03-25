@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitLab on Modernization workshop</title>
+    <link>http://localhost:1313/tags/gitlab/</link>
+    <description>Recent content in GitLab on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2021 00:30:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gitlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gitlab DevOps Modernization Workshop</title>
+      <link>http://localhost:1313/card/gitlab-cicd/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/gitlab-cicd/</guid>
+      <description>&lt;p&gt;In this workshop you will learn about the GitLab DevOps platform and how to build, test, and deploy features and functionality at a faster pace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ultimate GitOps - Deploy Secure Microservices to AWS EKS with the GitLab Agent</title>
+      <link>http://localhost:1313/card/gitlab-for-eks/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/gitlab-for-eks/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn to use the new GitLab Agent for Kubernetes to integrate with EKS more securely and to add GitOps pull deployments. Add GitLab’s mature DevSecOps security scanning, automated review environment management and cluster scanning security to your latest GitOps projects. Learn how the new GitLab Agent cluster connection method improves the security posture for all existing EKS CD push integrations as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build a modern architecture with GitLab, Hashicorp and Gremlin</title>
+      <link>http://localhost:1313/card/ghg_workshop/</link>
+      <pubDate>Wed, 21 Oct 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/ghg_workshop/</guid>
+      <description>&lt;p&gt;In this workshop we will work with GitLab, Hashicorp and Gremlin to show how to detect single points of failure within a gitflow deployment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

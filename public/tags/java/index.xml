@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Modernization workshop</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Dec 2020 08:00:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serverless Observability with AppDynamics</title>
+      <link>http://localhost:1313/card/appd-serverless/</link>
+      <pubDate>Wed, 09 Dec 2020 08:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/appd-serverless/</guid>
+      <description>&lt;p&gt;Gain hands-on experience using AppDynamics, an AWS advanced technology ISV Partner, to add observability and monitoring to the serverless components of a microservices-based application.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

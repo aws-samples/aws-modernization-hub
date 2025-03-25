@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PII on Modernization workshop</title>
+    <link>http://localhost:1313/tags/pii/</link>
+    <description>Recent content in PII on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Jan 2023 08:10:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confidential Data Discovery with BigID</title>
+      <link>http://localhost:1313/card/bigid/</link>
+      <pubDate>Mon, 09 Jan 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/bigid/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to use BigID&amp;rsquo;s SaaS product (SmallID) and discover confidential data present in AWS. Participants will 1) discover, classify, and catalog data. 2) Identify sensitive and at-risk data and documents 3) Practice effective data governance and security&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

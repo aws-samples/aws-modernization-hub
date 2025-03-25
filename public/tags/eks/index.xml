@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EKS on Modernization workshop</title>
+    <link>http://localhost:1313/tags/eks/</link>
+    <description>Recent content in EKS on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/eks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Platform for Enterprise AI (OPEA) on AWS</title>
+      <link>http://localhost:1313/card/intel-opea/</link>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/intel-opea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Right size workload resources on Amazon EKS with Stormforge</title>
+      <link>http://localhost:1313/card/stormforge-io/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/stormforge-io/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how StormForge Optimize Live can be used to continuously rightsize Kubernetes workloads. With this knowledge, you can ensure that your cloud-native applications are both cost effective and performant while removing developer toil.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Implementing Enterprise Service Mesh on AWS EKS Using Solo.io&#39;s Gloo Platform</title>
+      <link>http://localhost:1313/card/solo-io/</link>
+      <pubDate>Fri, 16 Feb 2024 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/solo-io/</guid>
+      <description>&lt;p&gt;In this workshop, customers will deploy Gloo Platform on a single EKS cluster and a subset of its features including topics like API key authentication, zero trust security, traffic policies and the Gloo dashboard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logz.io Observability &amp; Security for Teams that Love Open Source</title>
+      <link>http://localhost:1313/card/logz-io/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/logz-io/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn about the importance of observabilty in in modern software development and operations.&#xA;You’ll also have practical knowledge of how to implement observability in your own systems and how to use it to detect and diagnose issues quickly and effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Troubleshooting Amazon EKS Applications with Lightrun Dynamic Observability Platform</title>
+      <link>http://localhost:1313/card/lightrun/</link>
+      <pubDate>Tue, 09 May 2023 10:15:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/lightrun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevSecOps Protection with Trend Micro - Cloud One</title>
+      <link>http://localhost:1313/card/trendmicro-devsecops/</link>
+      <pubDate>Mon, 30 Jan 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-devsecops/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn how to leverage the Cloud One Platform to enforce the detection and protection in Applications, Elastic Kubernetes Service, Open-Source Projects and your IaC Templates!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon EKS Cost Management with Kubecost</title>
+      <link>http://localhost:1313/card/kubecost/</link>
+      <pubDate>Mon, 09 Jan 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/kubecost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Securing IAC with Synk and Hashicorp</title>
+      <link>http://localhost:1313/card/securing-iac-synk-and-hashicorp/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/securing-iac-synk-and-hashicorp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IBM Cloud Pak for Data on AWS Workshop</title>
+      <link>http://localhost:1313/card/cp4d/</link>
+      <pubDate>Tue, 27 Sep 2022 11:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/cp4d/</guid>
+      <description>&lt;p&gt;In this workshop you&amp;rsquo;ll learn how to connect CP4D to data repositories on AWS, perform data governance and use data for analysis to generate meaningful insights and together address pain points and challenges faced by Data Analytics industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Account and Workload Security with Lacework</title>
+      <link>http://localhost:1313/card/lacework/</link>
+      <pubDate>Thu, 20 Jan 2022 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/lacework/</guid>
+      <description>&lt;p&gt;Learn about securing the software delivery process, implementing security operation workflows on AWS, and managing security across accounts with Lacework Cloud Security Platform.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS Modernization Workshop With GitOps and Codefresh</title>
+      <link>http://localhost:1313/card/codefresh/</link>
+      <pubDate>Tue, 12 Oct 2021 11:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/codefresh/</guid>
+      <description>&lt;p&gt;In this workshop you will learn about GitOps deployments in a cloud environment and more specifically on Amazon Elastic Kubernetes service.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ultimate GitOps - Deploy Secure Microservices to AWS EKS with the GitLab Agent</title>
+      <link>http://localhost:1313/card/gitlab-for-eks/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/gitlab-for-eks/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn to use the new GitLab Agent for Kubernetes to integrate with EKS more securely and to add GitOps pull deployments. Add GitLab’s mature DevSecOps security scanning, automated review environment management and cluster scanning security to your latest GitOps projects. Learn how the new GitLab Agent cluster connection method improves the security posture for all existing EKS CD push integrations as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Aqua</title>
+      <link>http://localhost:1313/card/aqua/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/aqua/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to secure your workloads on Amazon EKS using Aqua&amp;rsquo;s comprehensive DevSecOps platform and tooling&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Armory</title>
+      <link>http://localhost:1313/card/armory/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/armory/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to use Armory to provision an EKS Cluster and configure different deployment types as well as how to scale and rollback deployments.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Tigera</title>
+      <link>http://localhost:1313/card/tigera/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/tigera/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to design, deploy, and observe security and networking policies in an EKS environment using Calico&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with AWS &amp; Snyk</title>
+      <link>http://localhost:1313/card/container-snyk/</link>
+      <pubDate>Tue, 04 May 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/container-snyk/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to scan containerized applications on Amazon EKS with Snyk. We will learn about Open Source vulnerabilities introduced by your Container Base Image and your application dependencies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS Modernization Workshop with Harness</title>
+      <link>http://localhost:1313/card/harness/</link>
+      <pubDate>Thu, 29 Apr 2021 13:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/harness/</guid>
+      <description>&lt;p&gt;In this workshop, you will gain hands-on experience using Harness to deploy an application to AWS EKS. Harness is a self-service CI/CD platform that allows engineers and DevOps team to build, test, deploy, and verify software, on-demand. This is a hands-on workshop where you will learn how to leverage Harness for easier deployments of your application.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Cisco Appdynamics</title>
+      <link>http://localhost:1313/card/appd-modernization/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/appd-modernization/</guid>
+      <description>&lt;p&gt;Learn how Appdynamics Observability can help you apply modernization strategies that keep your digital-first organization moving at speed, ensure operational optimization, avoid unnecessary risks, and maximize your innovation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GitOps on EKS with Weaveworks</title>
+      <link>http://localhost:1313/card/weaveworks/</link>
+      <pubDate>Wed, 21 Oct 2020 17:14:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/weaveworks/</guid>
+      <description>&lt;p&gt;In these workshop modules Weaveworks will introduce you to GitOps on EKS including an introduction to the 4 principles of GitOps, building reliable EKS enviroments, incorporating security, accelerating software development and managing Machine Learning and Artificial Intelligence models w/GitOps on EKS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>http://localhost:1313/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/snyk-atlassian/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Amazon EKS Workshop</title>
+      <link>http://localhost:1313/card/eksworkshop/</link>
+      <pubDate>Wed, 10 Jun 2020 17:14:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/eksworkshop/</guid>
+      <description>&lt;p&gt;In this workshop, we will explore multiple ways to configure VPC, ALB, and EC2 Kubernetes workers, and Amazon Elastic Kubernetes Service.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

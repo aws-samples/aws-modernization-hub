@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSO on Modernization workshop</title>
+    <link>http://localhost:1313/tags/sso/</link>
+    <description>Recent content in SSO on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 09:00:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sso/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Modernization Workshop With Okta</title>
+      <link>http://localhost:1313/card/okta/</link>
+      <pubDate>Tue, 16 Nov 2021 09:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/okta/</guid>
+      <description>&lt;p&gt;Okta provides Single Sign-On with adaptive MFA and advanced user life-cycle management for AWS SSO. In this lab you will build an end-to-end demo environment from creating free Okta and AWS accounts, configuring the integration, creating some test groups and testing it at the end.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

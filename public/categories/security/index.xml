@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Modernization workshop</title>
+    <link>http://localhost:1313/categories/security/</link>
+    <description>Recent content in Security on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datasaur LLM Labs AWS Workshop</title>
+      <link>http://localhost:1313/card/datasaur/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/datasaur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logz.io Observability &amp; Security for Teams that Love Open Source</title>
+      <link>http://localhost:1313/card/logz-io/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/logz-io/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn about the importance of observabilty in in modern software development and operations.&#xA;You’ll also have practical knowledge of how to implement observability in your own systems and how to use it to detect and diagnose issues quickly and effectively.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Accelerating Secure Data Transfer with IBM Aspera on Cloud</title>
+      <link>http://localhost:1313/card/trendmicro-aspera/</link>
+      <pubDate>Mon, 20 Mar 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-aspera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confidential Data Discovery with BigID</title>
+      <link>http://localhost:1313/card/bigid/</link>
+      <pubDate>Mon, 09 Jan 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/bigid/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to use BigID&amp;rsquo;s SaaS product (SmallID) and discover confidential data present in AWS. Participants will 1) discover, classify, and catalog data. 2) Identify sensitive and at-risk data and documents 3) Practice effective data governance and security&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrating Check Point CloudGuard Network Security and AWS Gateway Load Balancer</title>
+      <link>http://localhost:1313/card/checkpoint/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/checkpoint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Securing IAC with Synk and Hashicorp</title>
+      <link>http://localhost:1313/card/securing-iac-synk-and-hashicorp/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/securing-iac-synk-and-hashicorp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How to Secure, Control, &amp; Own Your Data with VGS</title>
+      <link>http://localhost:1313/card/vgs/</link>
+      <pubDate>Fri, 09 Sep 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/vgs/</guid>
+      <description>&lt;p&gt;In this workshop you will learn why DevOps and DevSecOps teams are turning to Data Security as a Service (DSaaS) providers, like Very Good Security (VGS), to secure sensitive data, streamline their workflows, and descope sensitive data from their tech stack to accelerate their journey to information security compliances like PCI DSS, SOC 2, GDPR, and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Account and Workload Security with Lacework</title>
+      <link>http://localhost:1313/card/lacework/</link>
+      <pubDate>Thu, 20 Jan 2022 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/lacework/</guid>
+      <description>&lt;p&gt;Learn about securing the software delivery process, implementing security operation workflows on AWS, and managing security across accounts with Lacework Cloud Security Platform.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS Modernization Workshop With Okta</title>
+      <link>http://localhost:1313/card/okta/</link>
+      <pubDate>Tue, 16 Nov 2021 09:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/okta/</guid>
+      <description>&lt;p&gt;Okta provides Single Sign-On with adaptive MFA and advanced user life-cycle management for AWS SSO. In this lab you will build an end-to-end demo environment from creating free Okta and AWS accounts, configuring the integration, creating some test groups and testing it at the end.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building Modernization Application with Security Embedded - DevSecOps</title>
+      <link>http://localhost:1313/card/trendmicro-appsec/</link>
+      <pubDate>Wed, 10 Nov 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-appsec/</guid>
+      <description>&lt;p&gt;Learn how to leverage Trend Micro Cloud One - Application Security with your serverless applications running on AWS Lambda or containerized applications running on AWS Fargate. If you looking to make cloud security more efficient, proactive, and gain visibility to help lead your developers, cloud architects, and DevOps engineers, this workshop is for you! Bridge the gap between your security and development teams by providing relevant information to gain better visibility into attacks targeting your cloud native applications, and take security action.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Open Source Security Visibility with Trend Micro &amp; Snyk</title>
+      <link>http://localhost:1313/card/cloudone-oss/</link>
+      <pubDate>Tue, 05 Oct 2021 00:08:22 -0800</pubDate>
+      <guid>http://localhost:1313/card/cloudone-oss/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to scan your projects on git repository and easily see the open source vulnerabilities existing in the open source projects that you applications are using. You will learn how you shift-left security leveraging Cloud One - Open Source Security by Snyk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ultimate GitOps - Deploy Secure Microservices to AWS EKS with the GitLab Agent</title>
+      <link>http://localhost:1313/card/gitlab-for-eks/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/gitlab-for-eks/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn to use the new GitLab Agent for Kubernetes to integrate with EKS more securely and to add GitOps pull deployments. Add GitLab’s mature DevSecOps security scanning, automated review environment management and cluster scanning security to your latest GitOps projects. Learn how the new GitLab Agent cluster connection method improves the security posture for all existing EKS CD push integrations as well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AWS environments with superwerker</title>
+      <link>http://localhost:1313/card/superwerker/</link>
+      <pubDate>Sun, 12 Sep 2021 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/superwerker/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to navigate in a multi-account AWS environment set up with superwerker. Companies of all sizes can benefit from deploying with superwerker. Start-ups and small-to-medium businesses can especially benefit when time-to-market and financial aspects are concerns. Regardless of company size, superwerker lets you run your business without spending excess time setting up and maintaining your AWS Cloud environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecOps with Bridgecrew</title>
+      <link>http://localhost:1313/card/bridgecrew/</link>
+      <pubDate>Wed, 08 Sep 2021 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/bridgecrew/</guid>
+      <description>&lt;p&gt;Learn about securing CloudFormation templates from code to cloud using Bridgecrew’s integrations with VS Code, CodeBuild, CodePipeline, GitHub and AWS runtime.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecOps with Bridgecrew and Terraform</title>
+      <link>http://localhost:1313/card/bridgecrewterraform/</link>
+      <pubDate>Wed, 08 Sep 2021 07:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/bridgecrewterraform/</guid>
+      <description>&lt;p&gt;Learn about securing Terraform templates from code to cloud using Bridgecrew’s integrations with VS Code, GitHub, Terraform Cloud, and AWS runtime.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trend Micro S3 Malware Scanning</title>
+      <link>http://localhost:1313/card/trendmicro-s3/</link>
+      <pubDate>Mon, 09 Aug 2021 00:15:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-s3/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to scan your objects stored in Amazon S3 buckets against malware and integrate them into your custom workflows by automating with your current resources, directly into your AWS environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Securing AWS Infrastructure with Trend Micro</title>
+      <link>http://localhost:1313/card/trendmicro/</link>
+      <pubDate>Wed, 14 Jul 2021 00:15:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn how to leverage infrastructure as code (IaC) and Security to automate your cloud security efforts. If you’re interested in making cloud security more efficient, automated, proactive, and accessible to developers, cloud architects, DevOps engineers this workshop is for you!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Aqua</title>
+      <link>http://localhost:1313/card/aqua/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/aqua/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to secure your workloads on Amazon EKS using Aqua&amp;rsquo;s comprehensive DevSecOps platform and tooling&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Tigera</title>
+      <link>http://localhost:1313/card/tigera/</link>
+      <pubDate>Sat, 26 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/tigera/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to design, deploy, and observe security and networking policies in an EKS environment using Calico&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Valtix</title>
+      <link>http://localhost:1313/card/valtix/</link>
+      <pubDate>Thu, 10 Jun 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/valtix/</guid>
+      <description>&lt;p&gt;In this workshop you will learn why DevOps is a pattern for modernization and how to use patterns with Valtix to release features and functionality at a faster pace.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with AWS &amp; Snyk</title>
+      <link>http://localhost:1313/card/container-snyk/</link>
+      <pubDate>Tue, 04 May 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/container-snyk/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to scan containerized applications on Amazon EKS with Snyk. We will learn about Open Source vulnerabilities introduced by your Container Base Image and your application dependencies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secure Devops with AWS &amp; Sysdig</title>
+      <link>http://localhost:1313/card/sysdig/</link>
+      <pubDate>Sun, 10 Jan 2021 18:40:47 -0800</pubDate>
+      <guid>http://localhost:1313/card/sysdig/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to securely run cloud applications in production by automating AWS Fargate and ECR image scanning directly in your AWS environment. You will also learn how to improve the security of your cloud infrastructure using AWS CloudTrail and Sysdig CloudConnector.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevOps Modernization with JFrog</title>
+      <link>http://localhost:1313/card/jfrog/</link>
+      <pubDate>Tue, 10 Nov 2020 17:46:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/jfrog/</guid>
+      <description>&lt;p&gt;In this workshop you will learn about the JFrog Platform and how to leverage Artifactory and JFrog Xray for managing your Software Development Lifecycle (SDLC) and bring DevOps to the cloud on AWS.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DevSecOps with Atlassian &amp; Snyk</title>
+      <link>http://localhost:1313/card/snyk-atlassian/</link>
+      <pubDate>Sun, 02 Aug 2020 20:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/snyk-atlassian/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn patterns for shift-left security leveraging Atlassian Bitbucket, Bitbucket Pipelines, and Snyk.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>.Net Core Container Secrets</title>
+      <link>http://localhost:1313/card/dotnet/</link>
+      <pubDate>Wed, 26 Feb 2020 18:53:36 -0800</pubDate>
+      <guid>http://localhost:1313/card/dotnet/</guid>
+      <description>&lt;p&gt;In this module, you will learn how to containerize an existing .Net application and implement modern cloud based security principles to secure your application in production.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contrast Security</title>
+      <link>http://localhost:1313/card/contrastsecurity/</link>
+      <pubDate>Mon, 24 Feb 2020 22:05:01 -0800</pubDate>
+      <guid>http://localhost:1313/card/contrastsecurity/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how Contrast technology platform is a fundamentally new way to protect a company from threats, giving our customers visibility and accuracy into their applications.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

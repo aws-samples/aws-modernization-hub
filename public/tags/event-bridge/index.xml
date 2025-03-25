@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Event Bridge on Modernization workshop</title>
+    <link>http://localhost:1313/tags/event-bridge/</link>
+    <description>Recent content in Event Bridge on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2021 00:30:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/event-bridge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incident managment and response with Pagerduty</title>
+      <link>http://localhost:1313/card/pagerduty/</link>
+      <pubDate>Tue, 05 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/pagerduty/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how Pagerduty helps with incident managment and response, and how to imporve your teams incident managment levraging AWS integration.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S3 on Modernization workshop</title>
+    <link>http://localhost:1313/tags/s3/</link>
+    <description>Recent content in S3 on Modernization workshop</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2023 00:10:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/s3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accelerating Secure Data Transfer with IBM Aspera on Cloud</title>
+      <link>http://localhost:1313/card/trendmicro-aspera/</link>
+      <pubDate>Mon, 20 Mar 2023 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-aspera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confidential Data Discovery with BigID</title>
+      <link>http://localhost:1313/card/bigid/</link>
+      <pubDate>Mon, 09 Jan 2023 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/bigid/</guid>
+      <description>&lt;p&gt;In this workshop you will learn how to use BigID&amp;rsquo;s SaaS product (SmallID) and discover confidential data present in AWS. Participants will 1) discover, classify, and catalog data. 2) Identify sensitive and at-risk data and documents 3) Practice effective data governance and security&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IBM Cloud Pak for Data on AWS Workshop</title>
+      <link>http://localhost:1313/card/cp4d/</link>
+      <pubDate>Tue, 27 Sep 2022 11:00:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/cp4d/</guid>
+      <description>&lt;p&gt;In this workshop you&amp;rsquo;ll learn how to connect CP4D to data repositories on AWS, perform data governance and use data for analysis to generate meaningful insights and together address pain points and challenges faced by Data Analytics industry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Securing your Data Migration to AWS S3 with Trend Micro Cloud One</title>
+      <link>http://localhost:1313/card/trendmicro-cloudone-datamigr/</link>
+      <pubDate>Fri, 15 Jul 2022 00:10:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-cloudone-datamigr/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to migrate your objects from a on-premise Network File Server (NFS) using AWS DataSync to AWS S3 in your AWS account securing the files with Trend Micro Cloud One File Storage Security.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build Real-time Dashboards with Rockset, DynamoDB, and Grafana</title>
+      <link>http://localhost:1313/card/rockset/</link>
+      <pubDate>Wed, 23 Mar 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/rockset/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how rockset, empowers analysts and business users to query live data. Participants will be guided through ingesting data from dynamodb to rockset. Along the way, they will query live data and combine it with static data in S3.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshop with ChaosSearch</title>
+      <link>http://localhost:1313/card/chaossearch/</link>
+      <pubDate>Wed, 19 Jan 2022 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/chaossearch/</guid>
+      <description>&lt;p&gt;Learn how ChaosSearch can streamline log processing to take you from raw logs stored in S3 to powerful insights through Kibana, in just a few minutes and without the need to move data or create complex pipelines..&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Governance &amp; Access Control Workshop with Immuta</title>
+      <link>http://localhost:1313/card/immuta/</link>
+      <pubDate>Sun, 24 Oct 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/immuta/</guid>
+      <description>&lt;p&gt;In this lab you will learn to work through a realistic scenario and learn how to use Immuta to automate data access and control by constructing policies using Immuta’s advanced policy engine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Transforming data in S3 with Redshift &amp; dbt</title>
+      <link>http://localhost:1313/card/dbtlabs/</link>
+      <pubDate>Mon, 04 Oct 2021 00:30:00 -0700</pubDate>
+      <guid>http://localhost:1313/card/dbtlabs/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how dbt, an open source transformation tool, empowers analysts to transform, test, and document their own SQL data pipelines using dataops best practices&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modernization Workshop with Dremio</title>
+      <link>http://localhost:1313/card/dremio/</link>
+      <pubDate>Wed, 15 Sep 2021 08:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/dremio/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how Dremio, the cloud data lake service, empowers users to run live, fast, and interactive queries directly against billions of rows of data in their own data lake storage. Gain a hands-on introduction to Dremio through deployment and exploration of Dremio’s user interface and features&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trend Micro S3 Malware Scanning</title>
+      <link>http://localhost:1313/card/trendmicro-s3/</link>
+      <pubDate>Mon, 09 Aug 2021 00:15:00 -0800</pubDate>
+      <guid>http://localhost:1313/card/trendmicro-s3/</guid>
+      <description>&lt;p&gt;In this workshop, you will learn how to scan your objects stored in Amazon S3 buckets against malware and integrate them into your custom workflows by automating with your current resources, directly into your AWS environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application Modernization with Cisco Appdynamics</title>
+      <link>http://localhost:1313/card/appd-modernization/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/card/appd-modernization/</guid>
+      <description>&lt;p&gt;Learn how Appdynamics Observability can help you apply modernization strategies that keep your digital-first organization moving at speed, ensure operational optimization, avoid unnecessary risks, and maximize your innovation&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Applied Observability for Modern Applications with Epsagon</title>
+      <link>http://localhost:1313/card/epsagon/</link>
+      <pubDate>Wed, 01 Jul 2020 17:10:07 -0800</pubDate>
+      <guid>http://localhost:1313/card/epsagon/</guid>
+      <description>&lt;p&gt;In this workshop, you’ll learn how to gain observability into your serverless application.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
