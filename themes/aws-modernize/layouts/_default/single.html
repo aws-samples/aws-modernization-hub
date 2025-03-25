@@ -39,7 +39,7 @@
               <li role="listitem"><i class="fas fa-check mr-2"></i>Categories:
                 {{ range $taxonomy_term := .Params.categories}}
                 <span class="workshop-terms">
-                  <a href="{{ "/categories/" | relLangURL }}{{ $taxonomy_term | urlize }}">{{ $taxonomy_term }}</a>
+                  <a href="{{ "/categories/" | relLangURL }}{{ $taxonomy_term | urlize }}/">{{ $taxonomy_term }}</a>
                 </span>
                 {{ end }}
               </li>
@@ -48,7 +48,7 @@
               <li role="listitem"><i class="fas fa-check mr-2"></i>Tags:
                 {{ range $taxonomy_term := .Params.tags}}
                 <span class="workshop-terms">
-                  <a class="workshop-terms" href="{{ "/tags/" | relLangURL }}{{ $taxonomy_term | urlize }}">{{ $taxonomy_term }}</a>
+                  <a class="workshop-terms" href="{{ "/tags/" | relLangURL }}{{ $taxonomy_term | urlize }}/">{{ $taxonomy_term }}</a>
                 </span>
                 {{ end }}
               </li>
