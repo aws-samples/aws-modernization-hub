@@ -13,3 +13,6 @@ project.lock.json
 
 # Cache
 .dccache
+
+#Public Folder
+/public
