@@ -1,5 +1,5 @@
 ---
-title: Open Platform for Enterprise AI (OPEA) on AWS
+title: Intel Open Platform for Enterprise AI (OPEA) on AWS
 level: 300
 duration: 2 hours
 date: 2025-03-25
